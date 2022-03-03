@@ -1,30 +1,3 @@
-@keyframes bottomFadeIn {
-  0% {
-      transform: translateY(5%);
-      opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-      opacity: 1;
-  }
-}
-@keyframes topFadeIn {
-  0% {
-      transform: translateY(-5%);
-      opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-      opacity: 1;
-  }
-}
-.bfadein {
-    animation: 1s ease 0s 1 bottomFadeIn;
-}
-.tfadein, .header {
-    animation: 1s ease 0s 1 topFadeIn;
-}
-
 * {
     box-sizing: border-box;
 }
@@ -123,3 +96,45 @@ a, p, button {
 .column div:hover a{
     opacity: 1;
 }
+
+
+@keyframes bottomFadeIn {
+  0% {
+      transform: translateY(5%);
+      opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+      opacity: 1;
+  }
+}
+@keyframes topFadeIn {
+  0% {
+      transform: translateY(-5%);
+      opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+      opacity: 1;
+  }
+}
+@keyframes rightFadeIn {
+  0% {
+      transform: translateX(5%);
+      opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+      opacity: 1;
+  }
+}
+.bfadein {
+    animation: 1s ease 0s 1 bottomFadeIn;
+}
+.tfadein, .header {
+    animation: 1s ease 0s 1 topFadeIn;
+}
+.rfadein {
+    animation: 1s ease 0s 1 rightFadeIn;
+}
+
