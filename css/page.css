@@ -1,3 +1,30 @@
+@keyframes bottomFadeIn {
+  0% {
+      transform: translateY(5%);
+      opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+      opacity: 1;
+  }
+}
+@keyframes topFadeIn {
+  0% {
+      transform: translateY(-5%);
+      opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+      opacity: 1;
+  }
+}
+.bfadein {
+    animation: 1s ease 0s 1 bottomFadeIn;
+}
+.tfadein, .header {
+    animation: 1s ease 0s 1 topFadeIn;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -65,23 +92,11 @@ a, p, button {
     overflow: hidden;
 }
 
-@keyframes figureFadeIn {
-  0% {
-      transform: translateY(5%);
-      opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-      opacity: 1;
-  }
-}
-
 .column img {
     object-fit: cover;
     transition: .2s ease;
     cursor: pointer;
     transition: filter 0.3s ease;
-    animation: 1s ease 0s 1 figureFadeIn;
 }
 
 .column a {

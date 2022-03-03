@@ -19,6 +19,7 @@ function makegrid(src)
         // img
         var iimg = document.createElement("img");
         iimg.src = thisitem.thumbnail;
+        iimg.setAttribute('class', 'bfadein');
         iimg.style.width = '100%';
         iimg.style.height = 'auto';
         iimg.style.aspectRatio = '4/3';
