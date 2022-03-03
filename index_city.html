@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="css/page.css">
+    <link rel="stylesheet" href="css/slide.css">
+    <link rel="stylesheet" href="css/nav.css">
+    <link rel="stylesheet" href="css/response.css">
+  </head>
+
+  <title>boundin &rsaquo; Cities</title>
+  <body>
+    <script src="js/page.js"></script>
+    <script src="figures/fig.js"></script>
+    <script src="figures/fig_city.js"></script>
+
+    <!-- Top navigater -->
+    <div class="topnav">
+      <a class="left" href="index.html"><i class="fas fa-home"></i></a>
+      <a class="right" href="about.html">About</a>
+      <div class="dropdown right">
+        <button class="dropbtn">Category 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="index_city.html" class="active">Cities</a>
+          <a href="index_cook.html">Foods</a>
+          <a href="index_flower.html">Flowers</a>
+          <a href="index_outdoor.html">Nature</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Header -->
+    <div class="header">
+      <h1>Cities</h1>
+      <p>Some places I lived in or visited.</p>
+    </div>
+
+    <div class="row"> 
+      <div class="column" id="city_col1">
+      </div>
+      <div class="column" id="city_col2">
+      </div>
+      <div class="column" id="city_col3">
+      </div>
+      <div class="column" id="city_col4">
+      </div>
+    </div>
+
+    <div id="mymodal" class="modal">
+      <span class="close cursor" onclick="closemodal()">&times;</span>
+      <div class="modal-content">
+        <div class="myslide">
+          <img id="slideimg" src="" style="width:100%">
+        </div>
+        <a class="prev" onclick="changeslide('city', 1)">&#10094;</a>
+        <a class="next" onclick="changeslide('city', -1)">&#10095;</a>
+
+        <div class="caption-container">
+          <p id="caption"></p>
+        </div>
+
+      </div>
+    </div>
+    <script defer>makegrid('city')</script>
+
+    <!-- Footer -->
+    <div class="header footer">
+      <p>Copyright &copy; 2022 boundin</p>
+    </div>
+    
+  </body>
+</html>
+
