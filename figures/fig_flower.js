@@ -1,5 +1,11 @@
 figures["flower"] = {};
 
+figures["flower"]["Fl-2018-08-11"] = {
+    imglink : "figures/flower/Fl-2018-08-11.jpg",
+    thumbnail : "figures/flower/Fl-2018-08-11-thumb.jpg",
+    caption : "Pelargonium hortorum | 天竺葵",
+};
+
 figures["flower"]["Fl-2021-04-09_a"] = {
     imglink : "figures/flower/Fl-2021-04-09_a.jpg",
     thumbnail : "figures/flower/Fl-2021-04-09_a-thumb.jpg",
@@ -322,5 +328,11 @@ figures["flower"]["Fl-2021-10-18_d"] = {
     imglink : "figures/flower/Fl-2021-10-18_d.jpg",
     thumbnail : "figures/flower/Fl-2021-10-18_d-thumb.jpg",
     caption : "Ipomoea quamoclit | 茑萝松",
+};
+
+figures["flower"]["Fl-2022-03-04"] = {
+    imglink : "figures/flower/Fl-2022-03-04.jpg",
+    thumbnail : "figures/flower/Fl-2022-03-04-thumb.jpg",
+    caption : "Hamamelis virginiana | 北美金缕梅",
 };
 
