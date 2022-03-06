@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <title>boundin &rsaquo; About</title>
   <head>
     <meta charset="UTF-8">
 <meta name="description" content="">
@@ -16,10 +17,7 @@
 <script src="js/page.js"></script>
 
   </head>
-  <title>boundin &rsaquo; Nature</title>
   <body>
-    <script src="figures/fig.js"></script>
-    <script src="figures/fig_outdoor.js"></script>
 
     <!-- Top navigater -->
 <div class="topnav">
@@ -33,43 +31,30 @@
       <a href="index_city.html">Cities</a>
       <a href="index_cook.html">Foods</a>
       <a href="index_flower.html">Flowers</a>
-      <a href="index_outdoor.html" class="active">Nature</a>
+      <a href="index_outdoor.html">Nature</a>
     </div>
   </div>
 </div>
 
 
-    <!-- Header -->
+    <!-- content -->
     <div class="header">
-      <h1>Nature</h1>
-      <p>Actually I'm not an outdoor person... at all.</p>
+      <h1>About</h1>
     </div>
-
-    <div class="row">
-      <div class="column" id="col1">
+    <div class="row alignflex">
+      <div class="colshort">
+        <img src="figures/cover/camera1.jpg" style="width: 100%; border-radius: 15px;" class="bfadein">
       </div>
-      <div class="column" id="col2">
-      </div>
-      <div class="column" id="col3">
-      </div>
-      <div class="column" id="col4">
-      </div>
-    </div>
-
-    <div id="mymodal" class="modal">
-      <span class="close cursor" onclick="closemodal()">&times;</span>
-      <div class="modal-content">
-        <div class="myslide">
-          <img id="slideimg" src="" style="width:100%">
-        </div>
-        <a class="prev" onclick="changeslide('outdoor', 1)">&#10094;</a>
-        <a class="next" onclick="changeslide('outdoor', -1)">&#10095;</a>
-        <div class="caption-container">
-          <p id="caption"></p>
-        </div>
+      <div class="collong rfadein" style="line-height: 1.6;">
+        <a>I am using Olympus OM-D EM10 Mark II, a Micro Four Thirds camera that was given by my mom who sparked my interest in taking photos. Lenses:</a><br>
+        <div class="ind"><a>
+            <i class="fa fa-caret-right"></i> &nbsp;Olympus M.Zuiko 45mm f/1.8<br>
+            <i class="fa fa-caret-right"></i> &nbsp;Panasonic Lumix G 20mm f/1.7 II<br>
+            <i class="fa fa-caret-right"></i> &nbsp;Olympus M.Zuiko 14-150mm f/4-5.6 II<br>
+            <i class="fa fa-caret-right"></i> &nbsp;Olympus M.Zuiko 75-300mm f/4.8-6.7 II
+        </a></div>
       </div>
     </div>
-    <script defer>makegrid("outdoor")</script>
 
     <!-- Footer -->
 <div class="header footer">
@@ -79,4 +64,5 @@
     
   </body>
 </html>
+
 
