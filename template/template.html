@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    __HEADER__
+  </head>
+  <title>boundin &rsaquo; __TITLE__</title>
+  <body>
+    <script src="figures/fig.js"></script>
+    <script src="figures/fig___KEY__.js"></script>
+
+    __NAV__
+
+    <!-- Header -->
+    <div class="header">
+      <h1>__TITLE__</h1>
+      <p>__DESC__</p>
+    </div>
+
+    <div class="row">
+      <div class="column" id="col1">
+      </div>
+      <div class="column" id="col2">
+      </div>
+      <div class="column" id="col3">
+      </div>
+      <div class="column" id="col4">
+      </div>
+    </div>
+
+    <div id="mymodal" class="modal">
+      <span class="close cursor" onclick="closemodal()">&times;</span>
+      <div class="modal-content">
+        <div class="myslide">
+          <img id="slideimg" src="" style="width:100%">
+        </div>
+        <a class="prev" onclick="changeslide('__KEY__', 1)">&#10094;</a>
+        <a class="next" onclick="changeslide('__KEY__', -1)">&#10095;</a>
+        <div class="caption-container">
+          <p id="caption"></p>
+        </div>
+      </div>
+    </div>
+    <script defer>makegrid("__KEY__")</script>
+
+    __FOOTER__
+    
+  </body>
+</html>

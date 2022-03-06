@@ -10,7 +10,7 @@ function makegrid(src)
         thisitem = imgs[list[idx]];
 
         // therow
-        var therow = document.getElementById(src+'_col'+(icol+1).toString());
+        var therow = document.getElementById('col'+(icol+1).toString());
 
         var idiv = document.createElement("div");
         therow.appendChild(idiv);
