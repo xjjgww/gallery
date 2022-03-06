@@ -1,8 +1,8 @@
 figures["outdoor"] = {};
 
-figures["outdoor"]["Ou-2018-06-06-h"] = {
-    imglink : "figures/outdoor/Ou-2018-06-06-h.jpg",
-    thumbnail : "figures/outdoor/Ou-2018-06-06-h-thumb.jpg",
+figures["outdoor"]["Ou-2018-06-06-a"] = {
+    imglink : "figures/outdoor/Ou-2018-06-06-a.jpg",
+    thumbnail : "figures/outdoor/Ou-2018-06-06-a-thumb.jpg",
     caption : "Zhangjiajie, Hunan",
 };
 
