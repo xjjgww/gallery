@@ -1,5 +1,6 @@
 import sys
 
+version='?v=1'
 pages = ['city', 'cook', 'flower', 'outdoor']
 
 class subpage:
@@ -34,12 +35,13 @@ for page in pages:
     contents = template
     contents = contents.replace('__HEADER__', header)
     contents = contents.replace('__NAV__', nav)
+    contents = contents.replace('__FOOTER__', footer)
+
+    contents = contents.replace('__VER__', version)
     contents = contents.replace('__ACTIVE0__', pages[page].active[0])
     contents = contents.replace('__ACTIVE1__', pages[page].active[1])
     contents = contents.replace('__ACTIVE2__', pages[page].active[2])
     contents = contents.replace('__ACTIVE3__', pages[page].active[3])
-    contents = contents.replace('__FOOTER__', footer)
-
     contents = contents.replace('__KEY__', page)
     contents = contents.replace('__TITLE__', pages[page].title)
     contents = contents.replace('__DESC__', pages[page].desc)
@@ -59,11 +61,13 @@ for inputfile in outputfiles:
         contents = f.read()
         contents = contents.replace('__HEADER__', header)
         contents = contents.replace('__NAV__', nav)
+        contents = contents.replace('__FOOTER__', footer)
+
+        contents = contents.replace('__VER__', version)
         contents = contents.replace('__ACTIVE0__', '')
         contents = contents.replace('__ACTIVE1__', '')
         contents = contents.replace('__ACTIVE2__', '')
         contents = contents.replace('__ACTIVE3__', '')
-        contents = contents.replace('__FOOTER__', footer)
         
     with open(outputfiles[inputfile], 'w') as f:
         print(contents, file=f)

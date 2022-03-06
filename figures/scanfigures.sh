@@ -13,8 +13,8 @@ do
     [[ $i != *.jpg || $i == *thumb* ]] && continue
     echo $i
     key2=${i%%.*}
-    cap=${key2}.txt
     key=${key2##*/}
+    cap=caption/${key}.txt
     thumb=$i
     [[ -f ${key2}-thumb.jpg ]] && thumb=${key2}-thumb.jpg
     caption=`cat $cap`
