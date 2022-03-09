@@ -336,3 +336,15 @@ figures["flower"]["Fl-2022-03-04"] = {
     caption : "Hamamelis virginiana | 北美金缕梅",
 };
 
+figures["flower"]["Fl-2022-03-08"] = {
+    imglink : "figures/flower/Fl-2022-03-08.jpg",
+    thumbnail : "figures/flower/Fl-2022-03-08-thumb.jpg",
+    caption : "Galanthus nivalis | 雪滴花",
+};
+
+figures["flower"]["Fl-2022-03-08_a"] = {
+    imglink : "figures/flower/Fl-2022-03-08_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-03-08_a-thumb.jpg",
+    caption : "Liriodendron tulipifera | 北美鹅掌楸",
+};
+
