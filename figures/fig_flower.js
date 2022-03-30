@@ -348,3 +348,15 @@ figures["flower"]["Fl-2022-03-08_a"] = {
     caption : "Liriodendron tulipifera | 北美鹅掌楸",
 };
 
+figures["flower"]["Fl-2022-03-23"] = {
+    imglink : "figures/flower/Fl-2022-03-23.jpg",
+    thumbnail : "figures/flower/Fl-2022-03-23-thumb.jpg",
+    caption : "Pieris japonica | 马醉木",
+};
+
+figures["flower"]["Fl-2022-03-23_a"] = {
+    imglink : "figures/flower/Fl-2022-03-23_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-03-23_a-thumb.jpg",
+    caption : "Acer rubrum | 美国红枫",
+};
+
