@@ -6,9 +6,9 @@ figures["city"]["Ci-2014-12-25"] = {
     caption : "Temple of Debod @ Madrid",
 };
 
-figures["city"]["Ci-2018-06-04-b"] = {
-    imglink : "figures/city/Ci-2018-06-04-b.jpg",
-    thumbnail : "figures/city/Ci-2018-06-04-b-thumb.jpg",
+figures["city"]["Ci-2018-06-04-a"] = {
+    imglink : "figures/city/Ci-2018-06-04-a.jpg",
+    thumbnail : "figures/city/Ci-2018-06-04-a-thumb.jpg",
     caption : "Fenghuang",
 };
 
@@ -202,5 +202,17 @@ figures["city"]["Ci-2022-03-04"] = {
     imglink : "figures/city/Ci-2022-03-04.jpg",
     thumbnail : "figures/city/Ci-2022-03-04-thumb.jpg",
     caption : "Beacon Hill @ Boston",
+};
+
+figures["city"]["Ci-2022-03-30"] = {
+    imglink : "figures/city/Ci-2022-03-30.jpg",
+    thumbnail : "figures/city/Ci-2022-03-30-thumb.jpg",
+    caption : "@ Boston",
+};
+
+figures["city"]["Ci-2022-03-30_a"] = {
+    imglink : "figures/city/Ci-2022-03-30_a.jpg",
+    thumbnail : "figures/city/Ci-2022-03-30_a-thumb.jpg",
+    caption : "@ Cambridge",
 };
 

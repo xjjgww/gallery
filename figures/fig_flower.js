@@ -360,3 +360,9 @@ figures["flower"]["Fl-2022-03-23_a"] = {
     caption : "Acer rubrum | 美国红枫",
 };
 
+figures["flower"]["Fl-2022-03-30"] = {
+    imglink : "figures/flower/Fl-2022-03-30.jpg",
+    thumbnail : "figures/flower/Fl-2022-03-30-thumb.jpg",
+    caption : "Narcissus pseudonarcissus | 黄水仙",
+};
+
