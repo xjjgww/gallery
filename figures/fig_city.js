@@ -138,21 +138,9 @@ figures["city"]["Ci-2022-01-23_a"] = {
     caption : "Charles River @ Boston",
 };
 
-figures["city"]["Ci-2022-02-19"] = {
-    imglink : "figures/city/Ci-2022-02-19.jpg",
-    thumbnail : "figures/city/Ci-2022-02-19-thumb.jpg",
-    caption : "World War I Monument @ Nashville",
-};
-
 figures["city"]["Ci-2022-02-19_b"] = {
     imglink : "figures/city/Ci-2022-02-19_b.jpg",
     thumbnail : "figures/city/Ci-2022-02-19_b-thumb.jpg",
-    caption : "The Parthenon @ Nashville",
-};
-
-figures["city"]["Ci-2022-02-19_c"] = {
-    imglink : "figures/city/Ci-2022-02-19_c.jpg",
-    thumbnail : "figures/city/Ci-2022-02-19_c-thumb.jpg",
     caption : "The Parthenon @ Nashville",
 };
 
@@ -214,5 +202,29 @@ figures["city"]["Ci-2022-03-30_a"] = {
     imglink : "figures/city/Ci-2022-03-30_a.jpg",
     thumbnail : "figures/city/Ci-2022-03-30_a-thumb.jpg",
     caption : "@ Cambridge",
+};
+
+figures["city"]["Ci-2022-04-15"] = {
+    imglink : "figures/city/Ci-2022-04-15.jpg",
+    thumbnail : "figures/city/Ci-2022-04-15-thumb.jpg",
+    caption : "l'immeuble @ Cambridge",
+};
+
+figures["city"]["Ci-2022-04-15_a"] = {
+    imglink : "figures/city/Ci-2022-04-15_a.jpg",
+    thumbnail : "figures/city/Ci-2022-04-15_a-thumb.jpg",
+    caption : "Bird and plastics",
+};
+
+figures["city"]["Ci-2022-04-20"] = {
+    imglink : "figures/city/Ci-2022-04-20.jpg",
+    thumbnail : "figures/city/Ci-2022-04-20-thumb.jpg",
+    caption : "Monster",
+};
+
+figures["city"]["Ci-2022-04-20_a"] = {
+    imglink : "figures/city/Ci-2022-04-20_a.jpg",
+    thumbnail : "figures/city/Ci-2022-04-20_a-thumb.jpg",
+    caption : "Intersection",
 };
 

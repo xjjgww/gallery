@@ -28,7 +28,7 @@ function makegrid(src)
 
         // txt
         var itt = document.createElement("a");
-        itt.innerHTML = thisitem.caption;
+        itt.innerHTML = thisitem.caption.replaceAll(' | ', "<br />");
         idiv.appendChild(itt);
         
         icol = (icol+1)%4;

@@ -492,3 +492,9 @@ figures["cook"]["Co-2022-02-27"] = {
     caption : "Turnip cake, a Chinese dim sum dish you can find in all Cantonese restaurants. 萝卜糕",
 };
 
+figures["cook"]["Co-2022-05-05"] = {
+    imglink : "figures/cook/Co-2022-05-05.jpg",
+    thumbnail : "figures/cook/Co-2022-05-05-thumb.jpg",
+    caption : "One of my \"mom's best recipes\" for breakfasts. 鸡蛋饼",
+};
+
