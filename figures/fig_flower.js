@@ -42,12 +42,6 @@ figures["flower"]["Fl-2021-05-02_a"] = {
     caption : "Taraxacum officinale | 西洋蒲公英 | Common dandelion",
 };
 
-figures["flower"]["Fl-2021-05-06_a"] = {
-    imglink : "figures/flower/Fl-2021-05-06_a.jpg",
-    thumbnail : "figures/flower/Fl-2021-05-06_a-thumb.jpg",
-    caption : "Rhododendron maximum | 极大杜鹃 | Great Laurel",
-};
-
 figures["flower"]["Fl-2021-05-06_d"] = {
     imglink : "figures/flower/Fl-2021-05-06_d.jpg",
     thumbnail : "figures/flower/Fl-2021-05-06_d-thumb.jpg",
@@ -94,12 +88,6 @@ figures["flower"]["Fl-2021-09-22_b"] = {
     imglink : "figures/flower/Fl-2021-09-22_b.jpg",
     thumbnail : "figures/flower/Fl-2021-09-22_b-thumb.jpg",
     caption : "Echinacea purpurea | 松果菊 | Purple coneflower",
-};
-
-figures["flower"]["Fl-2021-09-25"] = {
-    imglink : "figures/flower/Fl-2021-09-25.jpg",
-    thumbnail : "figures/flower/Fl-2021-09-25-thumb.jpg",
-    caption : "Impatiens hawkeri | 新几内亚凤仙 | New Guinea impatiens",
 };
 
 figures["flower"]["Fl-2021-09-25_b"] = {
@@ -210,12 +198,6 @@ figures["flower"]["Fl-2021-10-07_h"] = {
     caption : "Morella pensylvanica | 北杨梅 | Northern bayberry",
 };
 
-figures["flower"]["Fl-2021-10-07_i"] = {
-    imglink : "figures/flower/Fl-2021-10-07_i.jpg",
-    thumbnail : "figures/flower/Fl-2021-10-07_i-thumb.jpg",
-    caption : "Leucanthemum maximum | 大滨菊 | Shasta daisy",
-};
-
 figures["flower"]["Fl-2021-10-07_j"] = {
     imglink : "figures/flower/Fl-2021-10-07_j.jpg",
     thumbnail : "figures/flower/Fl-2021-10-07_j-thumb.jpg",
@@ -256,12 +238,6 @@ figures["flower"]["Fl-2021-10-15_a"] = {
     imglink : "figures/flower/Fl-2021-10-15_a.jpg",
     thumbnail : "figures/flower/Fl-2021-10-15_a-thumb.jpg",
     caption : "Symphyotrichum oblongifolium | 芳香紫菀 | Aromatic aster",
-};
-
-figures["flower"]["Fl-2021-10-18"] = {
-    imglink : "figures/flower/Fl-2021-10-18.jpg",
-    thumbnail : "figures/flower/Fl-2021-10-18-thumb.jpg",
-    caption : "Dahlia pinnata | 大丽花 | Garden dahlia",
 };
 
 figures["flower"]["Fl-2021-10-18_a"] = {
@@ -342,12 +318,6 @@ figures["flower"]["Fl-2022-04-08_e"] = {
     caption : "Helleborus niger | 黑根铁筷子 | Black hellebore",
 };
 
-figures["flower"]["Fl-2022-04-08_f"] = {
-    imglink : "figures/flower/Fl-2022-04-08_f.jpg",
-    thumbnail : "figures/flower/Fl-2022-04-08_f-thumb.jpg",
-    caption : "Helleborus orientalis | 近东铁筷子 | Lenten rose",
-};
-
 figures["flower"]["Fl-2022-04-08_g"] = {
     imglink : "figures/flower/Fl-2022-04-08_g.jpg",
     thumbnail : "figures/flower/Fl-2022-04-08_g-thumb.jpg",
@@ -378,12 +348,6 @@ figures["flower"]["Fl-2022-04-13_f"] = {
     caption : "Viola sororia | 习见蓝堇菜 | Common blue violet",
 };
 
-figures["flower"]["Fl-2022-04-14"] = {
-    imglink : "figures/flower/Fl-2022-04-14.jpg",
-    thumbnail : "figures/flower/Fl-2022-04-14-thumb.jpg",
-    caption : "Chaenomeles japonica | 日本海棠 | Japanese quince",
-};
-
 figures["flower"]["Fl-2022-04-14_a"] = {
     imglink : "figures/flower/Fl-2022-04-14_a.jpg",
     thumbnail : "figures/flower/Fl-2022-04-14_a-thumb.jpg",
@@ -412,6 +376,12 @@ figures["flower"]["Fl-2022-04-15"] = {
     imglink : "figures/flower/Fl-2022-04-15.jpg",
     thumbnail : "figures/flower/Fl-2022-04-15-thumb.jpg",
     caption : "Helleborus orientalis | 近东铁筷子 | Lenten rose",
+};
+
+figures["flower"]["Fl-2022-04-15_a"] = {
+    imglink : "figures/flower/Fl-2022-04-15_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-04-15_a-thumb.jpg",
+    caption : "Chaenomeles japonica | 日本海棠 | Japanese quince",
 };
 
 figures["flower"]["Fl-2022-04-19"] = {
@@ -540,15 +510,339 @@ figures["flower"]["Fl-2022-05-04_f"] = {
     caption : "Galium odoratum | 香猪殃殃 | Sweet woodruff",
 };
 
-figures["flower"]["Fl-2022-05-04_g"] = {
-    imglink : "figures/flower/Fl-2022-05-04_g.jpg",
-    thumbnail : "figures/flower/Fl-2022-05-04_g-thumb.jpg",
-    caption : "Lamium galeobdolon | 花野芝麻 | Yellow archangel",
-};
-
 figures["flower"]["Fl-2022-05-09"] = {
     imglink : "figures/flower/Fl-2022-05-09.jpg",
     thumbnail : "figures/flower/Fl-2022-05-09-thumb.jpg",
     caption : "Fothergilla major | 佛塞木 | Mountain witch-alder",
+};
+
+figures["flower"]["Fl-2022-05-14"] = {
+    imglink : "figures/flower/Fl-2022-05-14.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-14-thumb.jpg",
+    caption : "Viburnum dentatum | 齿叶荚蒾 | Arrowwood viburnum",
+};
+
+figures["flower"]["Fl-2022-05-14_a"] = {
+    imglink : "figures/flower/Fl-2022-05-14_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-14_a-thumb.jpg",
+    caption : "Polygonatum odoratum | 玉竹 | Solomon's-Seal",
+};
+
+figures["flower"]["Fl-2022-05-14_d"] = {
+    imglink : "figures/flower/Fl-2022-05-14_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-14_d-thumb.jpg",
+    caption : "Ajuga reptans | 匍筋骨草 | Bugleherb",
+};
+
+figures["flower"]["Fl-2022-05-14_e"] = {
+    imglink : "figures/flower/Fl-2022-05-14_e.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-14_e-thumb.jpg",
+    caption : "Aquilegia vulgaris | 欧耧斗菜 | Common columbine",
+};
+
+figures["flower"]["Fl-2022-05-16"] = {
+    imglink : "figures/flower/Fl-2022-05-16.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-16-thumb.jpg",
+    caption : "Impatiens hawkeri | 新几内亚凤仙 | New Guinea impatiens",
+};
+
+figures["flower"]["Fl-2022-05-16_a"] = {
+    imglink : "figures/flower/Fl-2022-05-16_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-16_a-thumb.jpg",
+    caption : "Matthiola incana | 紫罗兰 | Common stock",
+};
+
+figures["flower"]["Fl-2022-05-16_b"] = {
+    imglink : "figures/flower/Fl-2022-05-16_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-16_b-thumb.jpg",
+    caption : "Ornithogalum umbellatum | 伞花虎眼万年青 | Garden star-of-bethlehem",
+};
+
+figures["flower"]["Fl-2022-05-16_c"] = {
+    imglink : "figures/flower/Fl-2022-05-16_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-16_c-thumb.jpg",
+    caption : "Euonymus japonicus | 冬青卫矛 | Evergreen spindle",
+};
+
+figures["flower"]["Fl-2022-05-17"] = {
+    imglink : "figures/flower/Fl-2022-05-17.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-17-thumb.jpg",
+    caption : "Trillium repens | 百花三叶草 | White clover",
+};
+
+figures["flower"]["Fl-2022-05-17_a"] = {
+    imglink : "figures/flower/Fl-2022-05-17_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-17_a-thumb.jpg",
+    caption : "Viburnum plicatum | 粉团 | Japanese snowball",
+};
+
+figures["flower"]["Fl-2022-05-18"] = {
+    imglink : "figures/flower/Fl-2022-05-18.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-18-thumb.jpg",
+    caption : "Cornus alba | 红瑞木 | White dogwood",
+};
+
+figures["flower"]["Fl-2022-05-18_a"] = {
+    imglink : "figures/flower/Fl-2022-05-18_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-18_a-thumb.jpg",
+    caption : "Centaurea cyanus | 矢车菊 | Cornflower",
+};
+
+figures["flower"]["Fl-2022-05-18_b"] = {
+    imglink : "figures/flower/Fl-2022-05-18_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-18_b-thumb.jpg",
+    caption : "Lunaria annua | 银扇草 | Annual honesty",
+};
+
+figures["flower"]["Fl-2022-05-18_c"] = {
+    imglink : "figures/flower/Fl-2022-05-18_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-18_c-thumb.jpg",
+    caption : "Clematis florida | 铁线莲 | Asian Virginsbower",
+};
+
+figures["flower"]["Fl-2022-05-18_d"] = {
+    imglink : "figures/flower/Fl-2022-05-18_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-18_d-thumb.jpg",
+    caption : "Aquilegia vulgaris | 欧耧斗菜 | Common columbine",
+};
+
+figures["flower"]["Fl-2022-05-19"] = {
+    imglink : "figures/flower/Fl-2022-05-19.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-19-thumb.jpg",
+    caption : "Iris germanica | 德国鸢尾 | German bearded iris",
+};
+
+figures["flower"]["Fl-2022-05-19_b"] = {
+    imglink : "figures/flower/Fl-2022-05-19_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-19_b-thumb.jpg",
+    caption : "Dahlia pinnata | 大丽花 | Garden dahlia",
+};
+
+figures["flower"]["Fl-2022-05-21"] = {
+    imglink : "figures/flower/Fl-2022-05-21.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-21-thumb.jpg",
+    caption : "Aster alpinus | 高山紫菀 | Alpine Aster",
+};
+
+figures["flower"]["Fl-2022-05-21_a"] = {
+    imglink : "figures/flower/Fl-2022-05-21_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-21_a-thumb.jpg",
+    caption : "Allium giganteum | 大花葱 | Giant onion",
+};
+
+figures["flower"]["Fl-2022-05-21_b"] = {
+    imglink : "figures/flower/Fl-2022-05-21_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-21_b-thumb.jpg",
+    caption : "Heuchera rubescens | 晚红肾形草",
+};
+
+figures["flower"]["Fl-2022-05-21_d"] = {
+    imglink : "figures/flower/Fl-2022-05-21_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-21_d-thumb.jpg",
+    caption : "Leucanthemum vulgare | 滨菊 | Oxeye daisy",
+};
+
+figures["flower"]["Fl-2022-05-21_e"] = {
+    imglink : "figures/flower/Fl-2022-05-21_e.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-21_e-thumb.jpg",
+    caption : "Tradescantia ohiensis | 紫露草 | Ohio spiderwort",
+};
+
+figures["flower"]["Fl-2022-05-21_h"] = {
+    imglink : "figures/flower/Fl-2022-05-21_h.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-21_h-thumb.jpg",
+    caption : "Viburnum opulus | 欧洲荚蒾 | Guelder-rose",
+};
+
+figures["flower"]["Fl-2022-05-22"] = {
+    imglink : "figures/flower/Fl-2022-05-22.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-22-thumb.jpg",
+    caption : "Browallia speciosa | 美丽南美茄 | Amethyst flower",
+};
+
+figures["flower"]["Fl-2022-05-24"] = {
+    imglink : "figures/flower/Fl-2022-05-24.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-24-thumb.jpg",
+    caption : "Hosta sieboldiana | 圆叶玉簪 | Siebold's plantain lily",
+};
+
+figures["flower"]["Fl-2022-05-24_a"] = {
+    imglink : "figures/flower/Fl-2022-05-24_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-24_a-thumb.jpg",
+    caption : "Maianthemum racemosum | 总序鹿药 | False solomon's-seal",
+};
+
+figures["flower"]["Fl-2022-05-24_c"] = {
+    imglink : "figures/flower/Fl-2022-05-24_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-24_c-thumb.jpg",
+    caption : "Amsonia tabernaemontana | 柳叶水甘草 | Blue ice star flower",
+};
+
+figures["flower"]["Fl-2022-05-24_d"] = {
+    imglink : "figures/flower/Fl-2022-05-24_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-24_d-thumb.jpg",
+    caption : "Physocarpus opulifolius | 无毛风箱果 | Common ninebark",
+};
+
+figures["flower"]["Fl-2022-05-24_e"] = {
+    imglink : "figures/flower/Fl-2022-05-24_e.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-24_e-thumb.jpg",
+    caption : "Silene coronaria | 玫红蝇子草 | Rose campion",
+};
+
+figures["flower"]["Fl-2022-05-24_h"] = {
+    imglink : "figures/flower/Fl-2022-05-24_h.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-24_h-thumb.jpg",
+    caption : "Hemerocallis lilioasphodelus | 北黄花菜 | Yellow daylily",
+};
+
+figures["flower"]["Fl-2022-05-24_i"] = {
+    imglink : "figures/flower/Fl-2022-05-24_i.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-24_i-thumb.jpg",
+    caption : "Amsonia hubrichtii | 胡氏水甘草 | Hubricht's bluestar",
+};
+
+figures["flower"]["Fl-2022-05-25"] = {
+    imglink : "figures/flower/Fl-2022-05-25.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-25-thumb.jpg",
+    caption : "Lamium maculatum | 紫花野芝麻 | Spotted dead-nettle",
+};
+
+figures["flower"]["Fl-2022-05-25_b"] = {
+    imglink : "figures/flower/Fl-2022-05-25_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-25_b-thumb.jpg",
+    caption : "Ranunculus repens | 匍枝毛茛 | Creeping buttercup",
+};
+
+figures["flower"]["Fl-2022-05-25_d"] = {
+    imglink : "figures/flower/Fl-2022-05-25_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-25_d-thumb.jpg",
+    caption : "Nepeta cataria | 荆芥 | Catnip",
+};
+
+figures["flower"]["Fl-2022-05-25_e"] = {
+    imglink : "figures/flower/Fl-2022-05-25_e.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-25_e-thumb.jpg",
+    caption : "Bromus tectorum | 旱雀麦 | Cheatgrass",
+};
+
+figures["flower"]["Fl-2022-05-25_f"] = {
+    imglink : "figures/flower/Fl-2022-05-25_f.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-25_f-thumb.jpg",
+    caption : "Allium schoenoprasum | 北葱 | Chives",
+};
+
+figures["flower"]["Fl-2022-05-25_h"] = {
+    imglink : "figures/flower/Fl-2022-05-25_h.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-25_h-thumb.jpg",
+    caption : "Phlox subulata | 针叶天蓝绣球 | Moss phlox",
+};
+
+figures["flower"]["Fl-2022-05-25_i"] = {
+    imglink : "figures/flower/Fl-2022-05-25_i.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-25_i-thumb.jpg",
+    caption : "Gerbera jamesonii | 非洲菊 | Barberton daisy",
+};
+
+figures["flower"]["Fl-2022-05-28_a"] = {
+    imglink : "figures/flower/Fl-2022-05-28_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-28_a-thumb.jpg",
+    caption : "Lonicera sempervirens | 贯月忍冬 | Coral honeysuckle",
+};
+
+figures["flower"]["Fl-2022-05-28_c"] = {
+    imglink : "figures/flower/Fl-2022-05-28_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-28_c-thumb.jpg",
+    caption : "Coreopsis lanceolata | 剑叶金鸡菊 | Lance-leaved coreopsis",
+};
+
+figures["flower"]["Fl-2022-05-28_d"] = {
+    imglink : "figures/flower/Fl-2022-05-28_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-28_d-thumb.jpg",
+    caption : "Rosa gallica | 法国蔷薇",
+};
+
+figures["flower"]["Fl-2022-05-28_e"] = {
+    imglink : "figures/flower/Fl-2022-05-28_e.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-28_e-thumb.jpg",
+    caption : "Geranium robertianum | 汉荭鱼腥草 | Herb robert",
+};
+
+figures["flower"]["Fl-2022-05-28_f"] = {
+    imglink : "figures/flower/Fl-2022-05-28_f.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-28_f-thumb.jpg",
+    caption : "Geranium sanguineum | 血红老鹳草 | Bloody Crane's-bill",
+};
+
+figures["flower"]["Fl-2022-05-28_g"] = {
+    imglink : "figures/flower/Fl-2022-05-28_g.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-28_g-thumb.jpg",
+    caption : "Rosa hybrida | 丰花月季",
+};
+
+figures["flower"]["Fl-2022-05-29"] = {
+    imglink : "figures/flower/Fl-2022-05-29.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-29-thumb.jpg",
+    caption : "Kalmia latifolia | 山月桂 | Mountain-laurel",
+};
+
+figures["flower"]["Fl-2022-05-29_b"] = {
+    imglink : "figures/flower/Fl-2022-05-29_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-29_b-thumb.jpg",
+    caption : "Antirrhinum majus | 金鱼草 | Snapdragon",
+};
+
+figures["flower"]["Fl-2022-05-29_c"] = {
+    imglink : "figures/flower/Fl-2022-05-29_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-29_c-thumb.jpg",
+    caption : "Geum aleppicum | 路边青 | Common avens",
+};
+
+figures["flower"]["Fl-2022-05-29_d"] = {
+    imglink : "figures/flower/Fl-2022-05-29_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-29_d-thumb.jpg",
+    caption : "Chionanthus virginicus | 美国流苏树 | White fringetree",
+};
+
+figures["flower"]["Fl-2022-05-29_f"] = {
+    imglink : "figures/flower/Fl-2022-05-29_f.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-29_f-thumb.jpg",
+    caption : "Paeonia lactiflora | 芍药 | Chinese peony",
+};
+
+figures["flower"]["Fl-2022-05-31"] = {
+    imglink : "figures/flower/Fl-2022-05-31.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-31-thumb.jpg",
+    caption : "Salvia nemorosa | 林荫鼠尾草 | Woodland sage",
+};
+
+figures["flower"]["Fl-2022-05-31_a"] = {
+    imglink : "figures/flower/Fl-2022-05-31_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-31_a-thumb.jpg",
+    caption : "Hemerocallis lilioasphodelus | 北黄花菜 | Yellow daylily",
+};
+
+figures["flower"]["Fl-2022-05-31_b"] = {
+    imglink : "figures/flower/Fl-2022-05-31_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-31_b-thumb.jpg",
+    caption : "Rosa hybrida | 丰花月季",
+};
+
+figures["flower"]["Fl-2022-05-31_c"] = {
+    imglink : "figures/flower/Fl-2022-05-31_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-31_c-thumb.jpg",
+    caption : "Lysimachia punctata | 斑点过路黄 | Large yellow loosestrife",
+};
+
+figures["flower"]["Fl-2022-05-31_d"] = {
+    imglink : "figures/flower/Fl-2022-05-31_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-31_d-thumb.jpg",
+    caption : "Parietaria pensylvanica | 墙草 | Pennsylvania pellitory",
+};
+
+figures["flower"]["Fl-2022-05-31_e"] = {
+    imglink : "figures/flower/Fl-2022-05-31_e.jpg",
+    thumbnail : "figures/flower/Fl-2022-05-31_e-thumb.jpg",
+    caption : "Philadelphus coronarius | 欧洲山梅花 | Mock Orange",
 };
 
