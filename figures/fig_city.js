@@ -228,3 +228,63 @@ figures["city"]["Ci-2022-04-20_a"] = {
     caption : "Intersection",
 };
 
+figures["city"]["Ci-2022-07-07"] = {
+    imglink : "figures/city/Ci-2022-07-07.jpg",
+    thumbnail : "figures/city/Ci-2022-07-07-thumb.jpg",
+    caption : "@ Bologna",
+};
+
+figures["city"]["Ci-2022-07-07_a"] = {
+    imglink : "figures/city/Ci-2022-07-07_a.jpg",
+    thumbnail : "figures/city/Ci-2022-07-07_a-thumb.jpg",
+    caption : "Torre Dell'Orologio @ Bologna",
+};
+
+figures["city"]["Ci-2022-07-08"] = {
+    imglink : "figures/city/Ci-2022-07-08.jpg",
+    thumbnail : "figures/city/Ci-2022-07-08-thumb.jpg",
+    caption : "Asinelli Tower @ Bologna",
+};
+
+figures["city"]["Ci-2022-07-08_a"] = {
+    imglink : "figures/city/Ci-2022-07-08_a.jpg",
+    thumbnail : "figures/city/Ci-2022-07-08_a-thumb.jpg",
+    caption : "Tower @ Bologna",
+};
+
+figures["city"]["Ci-2022-07-08_b"] = {
+    imglink : "figures/city/Ci-2022-07-08_b.jpg",
+    thumbnail : "figures/city/Ci-2022-07-08_b-thumb.jpg",
+    caption : "Street @ Bologna",
+};
+
+figures["city"]["Ci-2022-07-15"] = {
+    imglink : "figures/city/Ci-2022-07-15.jpg",
+    thumbnail : "figures/city/Ci-2022-07-15-thumb.jpg",
+    caption : "Bookstore @ Torino",
+};
+
+figures["city"]["Ci-2022-07-15_b"] = {
+    imglink : "figures/city/Ci-2022-07-15_b.jpg",
+    thumbnail : "figures/city/Ci-2022-07-15_b-thumb.jpg",
+    caption : "Mole Antonelliana @ Torino",
+};
+
+figures["city"]["Ci-2022-07-15_c"] = {
+    imglink : "figures/city/Ci-2022-07-15_c.jpg",
+    thumbnail : "figures/city/Ci-2022-07-15_c-thumb.jpg",
+    caption : "Arched door @ Torino",
+};
+
+figures["city"]["Ci-2022-07-15_d"] = {
+    imglink : "figures/city/Ci-2022-07-15_d.jpg",
+    thumbnail : "figures/city/Ci-2022-07-15_d-thumb.jpg",
+    caption : "Street @ Torino",
+};
+
+figures["city"]["Ci-2022-07-17"] = {
+    imglink : "figures/city/Ci-2022-07-17.jpg",
+    thumbnail : "figures/city/Ci-2022-07-17-thumb.jpg",
+    caption : "Rte de Meyrin @ Meyrin",
+};
+

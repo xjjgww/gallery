@@ -60,3 +60,21 @@ figures["outdoor"]["Ou-2021-12-21"] = {
     caption : "Ithaca, NY",
 };
 
+figures["outdoor"]["Ou-2022-07-17"] = {
+    imglink : "figures/outdoor/Ou-2022-07-17.jpg",
+    thumbnail : "figures/outdoor/Ou-2022-07-17-thumb.jpg",
+    caption : "Chamonix-Mont-Blanc",
+};
+
+figures["outdoor"]["Ou-2022-07-17_a"] = {
+    imglink : "figures/outdoor/Ou-2022-07-17_a.jpg",
+    thumbnail : "figures/outdoor/Ou-2022-07-17_a-thumb.jpg",
+    caption : "Chamonix-Mont-Blanc",
+};
+
+figures["outdoor"]["Ou-2022-07-17_b"] = {
+    imglink : "figures/outdoor/Ou-2022-07-17_b.jpg",
+    thumbnail : "figures/outdoor/Ou-2022-07-17_b-thumb.jpg",
+    caption : "Chamonix-Mont-Blanc",
+};
+
