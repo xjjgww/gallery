@@ -174,12 +174,6 @@ figures["flower"]["Fl-2021-10-07_d"] = {
     caption : "Curcuma alismatifolia | 姜荷花 | Siam tulip",
 };
 
-figures["flower"]["Fl-2021-10-07_e"] = {
-    imglink : "figures/flower/Fl-2021-10-07_e.jpg",
-    thumbnail : "figures/flower/Fl-2021-10-07_e-thumb.jpg",
-    caption : "Petunia atkinsiana | 矮牵牛 | Garden petunia",
-};
-
 figures["flower"]["Fl-2021-10-07_f"] = {
     imglink : "figures/flower/Fl-2021-10-07_f.jpg",
     thumbnail : "figures/flower/Fl-2021-10-07_f-thumb.jpg",
@@ -844,5 +838,161 @@ figures["flower"]["Fl-2022-05-31_e"] = {
     imglink : "figures/flower/Fl-2022-05-31_e.jpg",
     thumbnail : "figures/flower/Fl-2022-05-31_e-thumb.jpg",
     caption : "Philadelphus coronarius | 欧洲山梅花 | Mock Orange",
+};
+
+figures["flower"]["Fl-2022-06-06"] = {
+    imglink : "figures/flower/Fl-2022-06-06.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-06-thumb.jpg",
+    caption : "Rosa chinensis | 月季 | China rose",
+};
+
+figures["flower"]["Fl-2022-06-06_b"] = {
+    imglink : "figures/flower/Fl-2022-06-06_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-06_b-thumb.jpg",
+    caption : "Digitalis purpurea | 毛地黄 | Lady's glove",
+};
+
+figures["flower"]["Fl-2022-06-07"] = {
+    imglink : "figures/flower/Fl-2022-06-07.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-07-thumb.jpg",
+    caption : "Campanula carpatica | 广口风铃草 | Tussock bellflower",
+};
+
+figures["flower"]["Fl-2022-06-07_a"] = {
+    imglink : "figures/flower/Fl-2022-06-07_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-07_a-thumb.jpg",
+    caption : "Anemonidium canadense | 银莲花 | Canada anemone",
+};
+
+figures["flower"]["Fl-2022-06-07_b"] = {
+    imglink : "figures/flower/Fl-2022-06-07_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-07_b-thumb.jpg",
+    caption : "Spiraea japonica | 粉花绣线菊 | Japanese meadowsweet",
+};
+
+figures["flower"]["Fl-2022-06-11"] = {
+    imglink : "figures/flower/Fl-2022-06-11.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-11-thumb.jpg",
+    caption : "Trifolium pratense | 红菽草 | Red clover",
+};
+
+figures["flower"]["Fl-2022-06-11_a"] = {
+    imglink : "figures/flower/Fl-2022-06-11_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-11_a-thumb.jpg",
+    caption : "Silene rubella subsp rubella | 高雪轮 | Sweet William catchfly",
+};
+
+figures["flower"]["Fl-2022-06-11_b"] = {
+    imglink : "figures/flower/Fl-2022-06-11_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-11_b-thumb.jpg",
+    caption : "Kniphofia uvaria | 火炬花 | Red hot poker",
+};
+
+figures["flower"]["Fl-2022-06-12"] = {
+    imglink : "figures/flower/Fl-2022-06-12.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-12-thumb.jpg",
+    caption : "Itea virginica | 弗吉尼亚鼠刺 | Virginia sweetspire",
+};
+
+figures["flower"]["Fl-2022-06-12_a"] = {
+    imglink : "figures/flower/Fl-2022-06-12_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-12_a-thumb.jpg",
+    caption : "Daucus carota | 野胡萝卜 | Wild carrot",
+};
+
+figures["flower"]["Fl-2022-06-12_b"] = {
+    imglink : "figures/flower/Fl-2022-06-12_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-12_b-thumb.jpg",
+    caption : "Sutera cordata | 百可花 | Water hyssop",
+};
+
+figures["flower"]["Fl-2022-06-12_c"] = {
+    imglink : "figures/flower/Fl-2022-06-12_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-12_c-thumb.jpg",
+    caption : "Mandevilla sanderi | 红蝉花 | Brazilian jasmine",
+};
+
+figures["flower"]["Fl-2022-06-12_d"] = {
+    imglink : "figures/flower/Fl-2022-06-12_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-12_d-thumb.jpg",
+    caption : "Hydrangea arborescens | 乔木绣球 | Smooth hydrangea",
+};
+
+figures["flower"]["Fl-2022-06-14"] = {
+    imglink : "figures/flower/Fl-2022-06-14.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-14-thumb.jpg",
+    caption : "Penstemon digitalis | 毛地黄钓钟柳 | Foxglove beardtongue",
+};
+
+figures["flower"]["Fl-2022-06-14_a"] = {
+    imglink : "figures/flower/Fl-2022-06-14_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-14_a-thumb.jpg",
+    caption : "Astilbe japonica | 日本落新妇 | False buck's beard",
+};
+
+figures["flower"]["Fl-2022-06-14_b"] = {
+    imglink : "figures/flower/Fl-2022-06-14_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-14_b-thumb.jpg",
+    caption : "Hemerocallis fulva | 萱草 | Orange day-lily",
+};
+
+figures["flower"]["Fl-2022-06-14_c"] = {
+    imglink : "figures/flower/Fl-2022-06-14_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-14_c-thumb.jpg",
+    caption : "Petunia atkinsiana | 矮牵牛 | Garden petunia",
+};
+
+figures["flower"]["Fl-2022-06-14_d"] = {
+    imglink : "figures/flower/Fl-2022-06-14_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-14_d-thumb.jpg",
+    caption : "Deutzia scabra | 溲疏 | Fuzzy deutzia",
+};
+
+figures["flower"]["Fl-2022-06-14_e"] = {
+    imglink : "figures/flower/Fl-2022-06-14_e.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-14_e-thumb.jpg",
+    caption : "Lilium pensylvanicum | 毛百合 | Siberian lily",
+};
+
+figures["flower"]["Fl-2022-06-20"] = {
+    imglink : "figures/flower/Fl-2022-06-20.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-20-thumb.jpg",
+    caption : "Berberis bealei | 阔叶十大功劳 | Leatherleaf mahonia",
+};
+
+figures["flower"]["Fl-2022-06-20_a"] = {
+    imglink : "figures/flower/Fl-2022-06-20_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-20_a-thumb.jpg",
+    caption : "Achillea millefolium | 蓍 | Yarrow",
+};
+
+figures["flower"]["Fl-2022-06-20_b"] = {
+    imglink : "figures/flower/Fl-2022-06-20_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-20_b-thumb.jpg",
+    caption : "Gaillardia pulchella | 天人菊 | Indian blanket",
+};
+
+figures["flower"]["Fl-2022-06-23"] = {
+    imglink : "figures/flower/Fl-2022-06-23.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-23-thumb.jpg",
+    caption : "Lavandula angustifolia | 狭叶薰衣草 | English lavender",
+};
+
+figures["flower"]["Fl-2022-06-23_a"] = {
+    imglink : "figures/flower/Fl-2022-06-23_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-23_a-thumb.jpg",
+    caption : "Eryngium alpinum | 高山刺芹 | Queen-of-the-alps",
+};
+
+figures["flower"]["Fl-2022-06-26"] = {
+    imglink : "figures/flower/Fl-2022-06-26.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-26-thumb.jpg",
+    caption : "Crotalaria pallida | 猪屎豆 | Smooth crotalaria",
+};
+
+figures["flower"]["Fl-2022-06-26_a"] = {
+    imglink : "figures/flower/Fl-2022-06-26_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-06-26_a-thumb.jpg",
+    caption : "Catalpa speciosa | 黄金树 | Northern catalpa",
 };
 

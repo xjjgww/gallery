@@ -354,12 +354,6 @@ figures["cook"]["Co-2021-08-25"] = {
     caption : "Jiucaihezi, a pan fried garlic chive pocket pie. 韭菜盒子",
 };
 
-figures["cook"]["Co-2021-09-01-b"] = {
-    imglink : "figures/cook/Co-2021-09-01-b.jpg",
-    thumbnail : "figures/cook/Co-2021-09-01-b-thumb.jpg",
-    caption : "Braised pork feet. 黄豆炖猪蹄",
-};
-
 figures["cook"]["Co-2021-09-08"] = {
     imglink : "figures/cook/Co-2021-09-08.jpg",
     thumbnail : "figures/cook/Co-2021-09-08-thumb.jpg",
@@ -496,5 +490,11 @@ figures["cook"]["Co-2022-05-05"] = {
     imglink : "figures/cook/Co-2022-05-05.jpg",
     thumbnail : "figures/cook/Co-2022-05-05-thumb.jpg",
     caption : "One of my \"mom's best recipes\" for breakfasts. 鸡蛋饼",
+};
+
+figures["cook"]["Co-2022-06-13"] = {
+    imglink : "figures/cook/Co-2022-06-13.jpg",
+    thumbnail : "figures/cook/Co-2022-06-13-thumb.jpg",
+    caption : "Braised pork feet. 红烧猪蹄",
 };
 
