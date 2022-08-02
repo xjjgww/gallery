@@ -1,6 +1,6 @@
 import sys
 
-version='?v=220723'
+version='?v=220802'
 pages = ['city', 'cook', 'flower', 'outdoor']
 
 class subpage:

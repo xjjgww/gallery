@@ -996,3 +996,15 @@ figures["flower"]["Fl-2022-06-26_a"] = {
     caption : "Catalpa speciosa | 黄金树 | Northern catalpa",
 };
 
+figures["flower"]["Fl-2022-07-14"] = {
+    imglink : "figures/flower/Fl-2022-07-14.jpg",
+    thumbnail : "figures/flower/Fl-2022-07-14-thumb.jpg",
+    caption : "Nymphaea nouchali var. caerulea | 蓝睡莲 | Egyptian lotus",
+};
+
+figures["flower"]["Fl-2022-07-15"] = {
+    imglink : "figures/flower/Fl-2022-07-15.jpg",
+    thumbnail : "figures/flower/Fl-2022-07-15-thumb.jpg",
+    caption : "Campsis radicans | 厚萼凌霄 | Trumpet vine",
+};
+
