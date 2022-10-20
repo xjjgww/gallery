@@ -78,3 +78,9 @@ figures["outdoor"]["Ou-2022-07-17_b"] = {
     caption : "Chamonix-Mont-Blanc",
 };
 
+figures["outdoor"]["Ou-2022-08-23"] = {
+    imglink : "figures/outdoor/Ou-2022-08-23.jpg",
+    thumbnail : "figures/outdoor/Ou-2022-08-23-thumb.jpg",
+    caption : "Silhouette @ Meyrin",
+};
+
