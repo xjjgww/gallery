@@ -288,3 +288,9 @@ figures["city"]["Ci-2022-07-17"] = {
     caption : "Rte de Meyrin @ Meyrin",
 };
 
+figures["city"]["Ci-2022-10-15"] = {
+    imglink : "figures/city/Ci-2022-10-15.jpg",
+    thumbnail : "figures/city/Ci-2022-10-15-thumb.jpg",
+    caption : "Palais de justice de Paris",
+};
+
