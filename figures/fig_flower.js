@@ -1008,3 +1008,75 @@ figures["flower"]["Fl-2022-07-15"] = {
     caption : "Campsis radicans | 厚萼凌霄 | Trumpet vine",
 };
 
+figures["flower"]["Fl-2022-10-23"] = {
+    imglink : "figures/flower/Fl-2022-10-23.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23-thumb.jpg",
+    caption : "Gloeophyllaceae | 褐褶菌科 | Gloeophyllales",
+};
+
+figures["flower"]["Fl-2022-10-23_a"] = {
+    imglink : "figures/flower/Fl-2022-10-23_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_a-thumb.jpg",
+    caption : "Erigeron annuus | 一年蓬 | Daisy fleabane",
+};
+
+figures["flower"]["Fl-2022-10-23_b"] = {
+    imglink : "figures/flower/Fl-2022-10-23_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_b-thumb.jpg",
+    caption : "Jacobaea vulgaris | 疆千里光 | Senecio jacobaea",
+};
+
+figures["flower"]["Fl-2022-10-23_c"] = {
+    imglink : "figures/flower/Fl-2022-10-23_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_c-thumb.jpg",
+    caption : "Dasiphora fruticosa | 金露梅 | Shrubby cinquefoil",
+};
+
+figures["flower"]["Fl-2022-10-23_d"] = {
+    imglink : "figures/flower/Fl-2022-10-23_d.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_d-thumb.jpg",
+    caption : "Clematis virginiana | 弗吉尼亚铁线莲",
+};
+
+figures["flower"]["Fl-2022-10-23_e"] = {
+    imglink : "figures/flower/Fl-2022-10-23_e.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_e-thumb.jpg",
+    caption : "Senecio vulgaris | 欧洲千里光 | Common groundsel",
+};
+
+figures["flower"]["Fl-2022-10-23_f"] = {
+    imglink : "figures/flower/Fl-2022-10-23_f.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_f-thumb.jpg",
+    caption : "Weigela florida | 锦带花",
+};
+
+figures["flower"]["Fl-2022-10-23_g"] = {
+    imglink : "figures/flower/Fl-2022-10-23_g.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_g-thumb.jpg",
+    caption : "Kolkwitzia amabilis | 猬实 | Linnaea amabilis",
+};
+
+figures["flower"]["Fl-2022-10-23_h"] = {
+    imglink : "figures/flower/Fl-2022-10-23_h.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_h-thumb.jpg",
+    caption : "Pyracantha fortuneana | 火棘 | Chinese firethorn",
+};
+
+figures["flower"]["Fl-2022-10-23_i"] = {
+    imglink : "figures/flower/Fl-2022-10-23_i.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_i-thumb.jpg",
+    caption : "Platycladus orientalis | 侧柏 | Oriental Arbor-vitae",
+};
+
+figures["flower"]["Fl-2022-10-23_k"] = {
+    imglink : "figures/flower/Fl-2022-10-23_k.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_k-thumb.jpg",
+    caption : "Helianthus tuberosus | 菊芋 | Jerusalem artichoke",
+};
+
+figures["flower"]["Fl-2022-10-23_l"] = {
+    imglink : "figures/flower/Fl-2022-10-23_l.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-23_l-thumb.jpg",
+    caption : "Callicarpa bodinieri | 紫珠 | Bodinier's beautyberry",
+};
+
