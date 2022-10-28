@@ -294,3 +294,9 @@ figures["city"]["Ci-2022-10-15"] = {
     caption : "Palais de justice de Paris",
 };
 
+figures["city"]["Ci-2022-10-23"] = {
+    imglink : "figures/city/Ci-2022-10-23.jpg",
+    thumbnail : "figures/city/Ci-2022-10-23-thumb.jpg",
+    caption : "Resident @ France",
+};
+
