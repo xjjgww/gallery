@@ -1050,12 +1050,6 @@ figures["flower"]["Fl-2022-10-23_f"] = {
     caption : "Weigela florida | 锦带花",
 };
 
-figures["flower"]["Fl-2022-10-23_g"] = {
-    imglink : "figures/flower/Fl-2022-10-23_g.jpg",
-    thumbnail : "figures/flower/Fl-2022-10-23_g-thumb.jpg",
-    caption : "Kolkwitzia amabilis | 猬实 | Linnaea amabilis",
-};
-
 figures["flower"]["Fl-2022-10-23_h"] = {
     imglink : "figures/flower/Fl-2022-10-23_h.jpg",
     thumbnail : "figures/flower/Fl-2022-10-23_h-thumb.jpg",
@@ -1078,5 +1072,23 @@ figures["flower"]["Fl-2022-10-23_l"] = {
     imglink : "figures/flower/Fl-2022-10-23_l.jpg",
     thumbnail : "figures/flower/Fl-2022-10-23_l-thumb.jpg",
     caption : "Callicarpa bodinieri | 紫珠 | Bodinier's beautyberry",
+};
+
+figures["flower"]["Fl-2022-10-29"] = {
+    imglink : "figures/flower/Fl-2022-10-29.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-29-thumb.jpg",
+    caption : "Linaria vulgaris | 柳穿鱼 | Yellow toadflax",
+};
+
+figures["flower"]["Fl-2022-10-29_b"] = {
+    imglink : "figures/flower/Fl-2022-10-29_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-29_b-thumb.jpg",
+    caption : "Tanacetum vulgare | 菊蒿 | Tansy",
+};
+
+figures["flower"]["Fl-2022-10-29_c"] = {
+    imglink : "figures/flower/Fl-2022-10-29_c.jpg",
+    thumbnail : "figures/flower/Fl-2022-10-29_c-thumb.jpg",
+    caption : "Kolkwitzia amabilis | 猬实 | Linnaea amabilis",
 };
 
