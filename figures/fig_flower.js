@@ -1092,3 +1092,21 @@ figures["flower"]["Fl-2022-10-29_c"] = {
     caption : "Kolkwitzia amabilis | 猬实 | Linnaea amabilis",
 };
 
+figures["flower"]["Fl-2022-11-06"] = {
+    imglink : "figures/flower/Fl-2022-11-06.jpg",
+    thumbnail : "figures/flower/Fl-2022-11-06-thumb.jpg",
+    caption : "Pluteaceae | 光柄菇 | Pluteaceae",
+};
+
+figures["flower"]["Fl-2022-11-06_a"] = {
+    imglink : "figures/flower/Fl-2022-11-06_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-11-06_a-thumb.jpg",
+    caption : "Eupatorium lindleyanum | 林泽兰",
+};
+
+figures["flower"]["Fl-2022-11-06_b"] = {
+    imglink : "figures/flower/Fl-2022-11-06_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-11-06_b-thumb.jpg",
+    caption : "Picris hieracioides | 毛连菜 | Hawkweed oxtongue",
+};
+
