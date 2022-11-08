@@ -84,3 +84,9 @@ figures["outdoor"]["Ou-2022-08-23"] = {
     caption : "Silhouette @ Meyrin",
 };
 
+figures["outdoor"]["Ou-2022-11-06"] = {
+    imglink : "figures/outdoor/Ou-2022-11-06.jpg",
+    thumbnail : "figures/outdoor/Ou-2022-11-06-thumb.jpg",
+    caption : "Water Tower @ CERN",
+};
+
