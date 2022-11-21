@@ -1110,3 +1110,21 @@ figures["flower"]["Fl-2022-11-06_b"] = {
     caption : "Picris hieracioides | 毛连菜 | Hawkweed oxtongue",
 };
 
+figures["flower"]["Fl-2022-11-20"] = {
+    imglink : "figures/flower/Fl-2022-11-20.jpg",
+    thumbnail : "figures/flower/Fl-2022-11-20-thumb.jpg",
+    caption : "Symphoricarpos albus | 白雪果 | Common snowberry",
+};
+
+figures["flower"]["Fl-2022-11-20_a"] = {
+    imglink : "figures/flower/Fl-2022-11-20_a.jpg",
+    thumbnail : "figures/flower/Fl-2022-11-20_a-thumb.jpg",
+    caption : "Calendula officinalis | 金盏花 | Pot marigold",
+};
+
+figures["flower"]["Fl-2022-11-20_b"] = {
+    imglink : "figures/flower/Fl-2022-11-20_b.jpg",
+    thumbnail : "figures/flower/Fl-2022-11-20_b-thumb.jpg",
+    caption : "Hylotelephium spectabile | 长药八宝 | Showy stonecrop",
+};
+

@@ -1,11 +1,5 @@
 figures["outdoor"] = {};
 
-figures["outdoor"]["Ou-2018-06-06-a"] = {
-    imglink : "figures/outdoor/Ou-2018-06-06-a.jpg",
-    thumbnail : "figures/outdoor/Ou-2018-06-06-a-thumb.jpg",
-    caption : "Zhangjiajie, Hunan",
-};
-
 figures["outdoor"]["Ou-2019-10-25"] = {
     imglink : "figures/outdoor/Ou-2019-10-25.jpg",
     thumbnail : "figures/outdoor/Ou-2019-10-25-thumb.jpg",
@@ -82,6 +76,12 @@ figures["outdoor"]["Ou-2022-08-23"] = {
     imglink : "figures/outdoor/Ou-2022-08-23.jpg",
     thumbnail : "figures/outdoor/Ou-2022-08-23-thumb.jpg",
     caption : "Silhouette @ Meyrin",
+};
+
+figures["outdoor"]["Ou-2022-10-23"] = {
+    imglink : "figures/outdoor/Ou-2022-10-23.jpg",
+    thumbnail : "figures/outdoor/Ou-2022-10-23-thumb.jpg",
+    caption : "Autumn",
 };
 
 figures["outdoor"]["Ou-2022-11-06"] = {
