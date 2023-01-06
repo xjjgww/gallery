@@ -300,3 +300,69 @@ figures["city"]["Ci-2022-10-23"] = {
     caption : "Resident @ France",
 };
 
+figures["city"]["Ci-2022-12-28"] = {
+    imglink : "figures/city/Ci-2022-12-28.jpg",
+    thumbnail : "figures/city/Ci-2022-12-28-thumb.jpg",
+    caption : "Galleria Vittorio Emanuele II @ Milano",
+};
+
+figures["city"]["Ci-2022-12-29"] = {
+    imglink : "figures/city/Ci-2022-12-29.jpg",
+    thumbnail : "figures/city/Ci-2022-12-29-thumb.jpg",
+    caption : "Duomo @ Milano",
+};
+
+figures["city"]["Ci-2022-12-30"] = {
+    imglink : "figures/city/Ci-2022-12-30.jpg",
+    thumbnail : "figures/city/Ci-2022-12-30-thumb.jpg",
+    caption : "Riomaggiore",
+};
+
+figures["city"]["Ci-2022-12-30_a"] = {
+    imglink : "figures/city/Ci-2022-12-30_a.jpg",
+    thumbnail : "figures/city/Ci-2022-12-30_a-thumb.jpg",
+    caption : "La Spezia",
+};
+
+figures["city"]["Ci-2022-12-31"] = {
+    imglink : "figures/city/Ci-2022-12-31.jpg",
+    thumbnail : "figures/city/Ci-2022-12-31-thumb.jpg",
+    caption : "Palazzo Vecchio @ Firenze",
+};
+
+figures["city"]["Ci-2023-01-01"] = {
+    imglink : "figures/city/Ci-2023-01-01.jpg",
+    thumbnail : "figures/city/Ci-2023-01-01-thumb.jpg",
+    caption : "Monteriggioni",
+};
+
+figures["city"]["Ci-2023-01-01_a"] = {
+    imglink : "figures/city/Ci-2023-01-01_a.jpg",
+    thumbnail : "figures/city/Ci-2023-01-01_a-thumb.jpg",
+    caption : "San Gimignano",
+};
+
+figures["city"]["Ci-2023-01-01_b"] = {
+    imglink : "figures/city/Ci-2023-01-01_b.jpg",
+    thumbnail : "figures/city/Ci-2023-01-01_b-thumb.jpg",
+    caption : "Piazza della Cisterna",
+};
+
+figures["city"]["Ci-2023-01-02"] = {
+    imglink : "figures/city/Ci-2023-01-02.jpg",
+    thumbnail : "figures/city/Ci-2023-01-02-thumb.jpg",
+    caption : "St. Peter's Square",
+};
+
+figures["city"]["Ci-2023-01-03"] = {
+    imglink : "figures/city/Ci-2023-01-03.jpg",
+    thumbnail : "figures/city/Ci-2023-01-03-thumb.jpg",
+    caption : "Roma",
+};
+
+figures["city"]["Ci-2023-01-04"] = {
+    imglink : "figures/city/Ci-2023-01-04.jpg",
+    thumbnail : "figures/city/Ci-2023-01-04-thumb.jpg",
+    caption : "Bern",
+};
+

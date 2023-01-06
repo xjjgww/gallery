@@ -90,3 +90,21 @@ figures["outdoor"]["Ou-2022-11-06"] = {
     caption : "Water Tower @ CERN",
 };
 
+figures["outdoor"]["Ou-2022-12-31"] = {
+    imglink : "figures/outdoor/Ou-2022-12-31.jpg",
+    thumbnail : "figures/outdoor/Ou-2022-12-31-thumb.jpg",
+    caption : "Toscana",
+};
+
+figures["outdoor"]["Ou-2023-01-01"] = {
+    imglink : "figures/outdoor/Ou-2023-01-01.jpg",
+    thumbnail : "figures/outdoor/Ou-2023-01-01-thumb.jpg",
+    caption : "Toscana",
+};
+
+figures["outdoor"]["Ou-2023-01-01_a"] = {
+    imglink : "figures/outdoor/Ou-2023-01-01_a.jpg",
+    thumbnail : "figures/outdoor/Ou-2023-01-01_a-thumb.jpg",
+    caption : "Toscana",
+};
+
