@@ -132,21 +132,9 @@ figures["city"]["Ci-2022-01-23"] = {
     caption : "BU Bridge @ Boston",
 };
 
-figures["city"]["Ci-2022-01-23_a"] = {
-    imglink : "figures/city/Ci-2022-01-23_a.jpg",
-    thumbnail : "figures/city/Ci-2022-01-23_a-thumb.jpg",
-    caption : "Charles River @ Boston",
-};
-
 figures["city"]["Ci-2022-02-19_b"] = {
     imglink : "figures/city/Ci-2022-02-19_b.jpg",
     thumbnail : "figures/city/Ci-2022-02-19_b-thumb.jpg",
-    caption : "The Parthenon @ Nashville",
-};
-
-figures["city"]["Ci-2022-02-19_d"] = {
-    imglink : "figures/city/Ci-2022-02-19_d.jpg",
-    thumbnail : "figures/city/Ci-2022-02-19_d-thumb.jpg",
     caption : "The Parthenon @ Nashville",
 };
 
@@ -244,12 +232,6 @@ figures["city"]["Ci-2022-07-08"] = {
     imglink : "figures/city/Ci-2022-07-08.jpg",
     thumbnail : "figures/city/Ci-2022-07-08-thumb.jpg",
     caption : "Asinelli Tower @ Bologna",
-};
-
-figures["city"]["Ci-2022-07-08_a"] = {
-    imglink : "figures/city/Ci-2022-07-08_a.jpg",
-    thumbnail : "figures/city/Ci-2022-07-08_a-thumb.jpg",
-    caption : "Tower @ Bologna",
 };
 
 figures["city"]["Ci-2022-07-08_b"] = {

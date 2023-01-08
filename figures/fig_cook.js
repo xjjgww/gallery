@@ -474,6 +474,12 @@ figures["cook"]["Co-2021-12-23"] = {
     caption : "Giraffe Swiss roll. 蛋糕卷",
 };
 
+figures["cook"]["Co-2022-01-21"] = {
+    imglink : "figures/cook/Co-2022-01-21.jpg",
+    thumbnail : "figures/cook/Co-2022-01-21-thumb.jpg",
+    caption : "Pork and mung bean noodles. 猪肉炖粉条",
+};
+
 figures["cook"]["Co-2022-01-31"] = {
     imglink : "figures/cook/Co-2022-01-31.jpg",
     thumbnail : "figures/cook/Co-2022-01-31-thumb.jpg",
@@ -496,5 +502,11 @@ figures["cook"]["Co-2022-06-13"] = {
     imglink : "figures/cook/Co-2022-06-13.jpg",
     thumbnail : "figures/cook/Co-2022-06-13-thumb.jpg",
     caption : "Braised pork feet. 红烧猪蹄",
+};
+
+figures["cook"]["Co-2023-01-08"] = {
+    imglink : "figures/cook/Co-2023-01-08.jpg",
+    thumbnail : "figures/cook/Co-2023-01-08-thumb.jpg",
+    caption : "Dumplings. 饺子",
 };
 
