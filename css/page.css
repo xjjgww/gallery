@@ -139,6 +139,9 @@ a, p, button {
 .bfadein {
     animation: 1s ease 0s 1 bottomFadeIn;
 }
+.rfadein {
+    animation: 1s ease 0s 1 rightFadeIn;
+}
 .tfadein, .header {
     animation: 1s ease 0s 1 topFadeIn;
 }
