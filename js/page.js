@@ -25,7 +25,9 @@ function makegrid(src)
         iimg.style.width = '100%';
         iimg.style.height = 'auto';
         iimg.style.aspectRatio = '4/3';
-        iimg.style.transitionDelay = Math.random()*1.5+"s";
+        iimg.style.transitionProperty = 'opacity, filter';
+        iimg.style.transitionDelay = Math.random()*1.5+"s, 0s";
+        iimg.style.transitionDuration = '0.4s, 0.3s';
         idiv.appendChild(iimg);
 
         // txt
