@@ -510,3 +510,15 @@ figures["cook"]["Co-2023-01-08"] = {
     caption : "Dumplings. 饺子",
 };
 
+figures["cook"]["Co-2023-01-20"] = {
+    imglink : "figures/cook/Co-2023-01-20.jpg",
+    thumbnail : "figures/cook/Co-2023-01-20-thumb.jpg",
+    caption : "My mom always fed me this dough drop soup when I was ill. 疙瘩汤",
+};
+
+figures["cook"]["Co-2023-01-24"] = {
+    imglink : "figures/cook/Co-2023-01-24.jpg",
+    thumbnail : "figures/cook/Co-2023-01-24-thumb.jpg",
+    caption : "The pork rice bowl I make is neither authentic nor bad. 卤肉饭",
+};
+

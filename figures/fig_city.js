@@ -336,6 +336,18 @@ figures["city"]["Ci-2023-01-02"] = {
     caption : "St. Peter's Square",
 };
 
+figures["city"]["Ci-2023-01-02_a"] = {
+    imglink : "figures/city/Ci-2023-01-02_a.jpg",
+    thumbnail : "figures/city/Ci-2023-01-02_a-thumb.jpg",
+    caption : "Castel Sant'Angelo",
+};
+
+figures["city"]["Ci-2023-01-02_b"] = {
+    imglink : "figures/city/Ci-2023-01-02_b.jpg",
+    thumbnail : "figures/city/Ci-2023-01-02_b-thumb.jpg",
+    caption : "St. Peter's Basilica",
+};
+
 figures["city"]["Ci-2023-01-03"] = {
     imglink : "figures/city/Ci-2023-01-03.jpg",
     thumbnail : "figures/city/Ci-2023-01-03-thumb.jpg",

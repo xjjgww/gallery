@@ -108,3 +108,9 @@ figures["outdoor"]["Ou-2023-01-01_a"] = {
     caption : "Toscana",
 };
 
+figures["outdoor"]["Ou-2023-01-22"] = {
+    imglink : "figures/outdoor/Ou-2023-01-22.jpg",
+    thumbnail : "figures/outdoor/Ou-2023-01-22-thumb.jpg",
+    caption : "Crow",
+};
+
