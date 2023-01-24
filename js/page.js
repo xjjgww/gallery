@@ -4,6 +4,7 @@ function makegrid(src)
     var imgs = figures[src];
     let list = Object.keys(imgs);
     var icol=0;
+    var delaylist = [];
     for(var i=0; i<list.length; i++)
     {
         var idx = list.length - 1 - i;
@@ -15,15 +16,16 @@ function makegrid(src)
         var idiv = document.createElement("div");
         therow.appendChild(idiv);
         idiv.setAttribute('onclick', "openmodal(); currentslide('" + src + "', '" + list[idx] + "') ");        
-        
+
         // img
         var iimg = document.createElement("img");
         iimg.src = thisitem.thumbnail;
-        iimg.setAttribute('class', 'bfadein');
+        iimg.setAttribute('class', 'opacity0');
         iimg.setAttribute('loading', 'lazy');
         iimg.style.width = '100%';
         iimg.style.height = 'auto';
         iimg.style.aspectRatio = '4/3';
+        iimg.style.transitionDelay = Math.random()*1.5+"s";
         idiv.appendChild(iimg);
 
         // txt
@@ -33,6 +35,15 @@ function makegrid(src)
         
         icol = (icol+1)%4;
     }
+
+    setTimeout(function() {
+        var imgs = document.getElementsByTagName('img');
+        for(var i=0; i<imgs.length; i++)
+        {
+            // imgs[i].classList.toggle('opacity1');
+            imgs[i].setAttribute('class', 'opacity1');
+        }
+    }, 100);
 }
 
 function openmodal()

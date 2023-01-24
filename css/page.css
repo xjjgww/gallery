@@ -51,11 +51,11 @@ a, p, button {
     -ms-flex: 25%; /* IE10 */
     flex: 25%;
     max-width: 25%;
-    padding: 0 4px;
+    padding: 0 0px;
 }
 
 .column div {
-    margin-top: 5px;
+    margin-top: 0px;
     vertical-align: middle;
     text-align: center;
     width: 100%;
@@ -67,9 +67,11 @@ a, p, button {
 
 .column img {
     object-fit: cover;
-    transition: .2s ease;
     cursor: pointer;
-    transition: filter 0.3s ease;
+    display: block;
+    transition-duration: 0.4s;
+    transition-property: opacity;
+    transition-timing-function: ease-in;
 }
 
 .column a {
@@ -97,44 +99,56 @@ a, p, button {
     opacity: 1;
 }
 
-
 @keyframes bottomFadeIn {
-  0% {
-      transform: translateY(5%);
-      opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-      opacity: 1;
-  }
+    0% {
+        transform: translateY(5%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
 }
 @keyframes topFadeIn {
-  0% {
-      transform: translateY(-5%);
-      opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-      opacity: 1;
-  }
+    0% {
+        transform: translateY(-5%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
 }
 @keyframes rightFadeIn {
-  0% {
-      transform: translateX(5%);
-      opacity: 0;
-  }
-  100% {
-    transform: translateX(0);
-      opacity: 1;
-  }
+    0% {
+        transform: translateX(5%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
 }
+@keyframes stillFadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
 .bfadein {
     animation: 1s ease 0s 1 bottomFadeIn;
 }
 .tfadein, .header {
     animation: 1s ease 0s 1 topFadeIn;
 }
-.rfadein {
-    animation: 1s ease 0s 1 rightFadeIn;
+
+.opacity0 {
+    opacity: 0;
 }
 
+.opacity1 {
+    opacity: 1;
+}
