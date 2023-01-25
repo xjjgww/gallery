@@ -10,7 +10,7 @@
 }
 
 .topnav a {
-    color: black;
+    color: inherit;
     display: block;
     text-align: center;
     padding: 16px 16px;
@@ -28,11 +28,11 @@
 }
 
 .topnav a:hover {
-    color: #C03945;
+    color: black;
 }
 
 .topnav a.active {
-    color: #C03945;
+    color: black;
 }
 
 .dropdown {
@@ -43,7 +43,7 @@
 .dropdown .dropbtn {
     border: none;
     outline: none;
-    color: black;
+    color: inherit;
     padding: 16px 16px;
     background-color: white;
     font-family: inherit;
@@ -69,7 +69,7 @@
 
 .dropdown-content a {
     float: none;
-    color: black;
+    color: inherit;
     padding: 8px 16px;
     text-decoration: none;
     display: block;
