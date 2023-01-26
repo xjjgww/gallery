@@ -279,7 +279,7 @@ figures["city"]["Ci-2022-10-15"] = {
 figures["city"]["Ci-2022-10-23"] = {
     imglink : "figures/city/Ci-2022-10-23.jpg",
     thumbnail : "figures/city/Ci-2022-10-23-thumb.jpg",
-    caption : "Resident @ France",
+    caption : "St-Genis-Pouilly",
 };
 
 figures["city"]["Ci-2022-12-28"] = {
