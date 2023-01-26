@@ -91,7 +91,7 @@ a, p, button {
 }
 
 .column div:hover img{
-    -webkit-filter: brightness(30%);
+    -webkit-filter: brightness(45%);
 }
 
 .column div:hover a{
