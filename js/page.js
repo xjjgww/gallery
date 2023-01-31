@@ -21,12 +21,12 @@ function makegrid(src)
         var iimg = document.createElement("img");
         iimg.src = thisitem.thumbnail;
         iimg.setAttribute('class', 'opacity0');
-        iimg.setAttribute('loading', 'lazy');
+        // iimg.setAttribute('loading', 'lazy');
         iimg.style.width = '100%';
         iimg.style.height = 'auto';
         iimg.style.aspectRatio = '4/3';
         iimg.style.transitionProperty = 'opacity, filter';
-        iimg.style.transitionDelay = Math.random()*2+"s, 0s";
+        iimg.style.transitionDelay = Math.random()*1.2+"s, 0s";
         iimg.style.transitionDuration = '0.4s, 0.2s';
         idiv.appendChild(iimg);
 
@@ -38,14 +38,22 @@ function makegrid(src)
         icol = (icol+1)%4;
     }
 
-    setTimeout(function() {
-        var imgs = document.getElementsByTagName('img');
-        for(var i=0; i<imgs.length; i++)
-        {
-            // imgs[i].classList.toggle('opacity1');
-            imgs[i].setAttribute('class', 'opacity1');
-        }
-    }, 100);
+}
+
+function figfadein()
+{
+    const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('opacity1');
+	        return; 
+            }
+            // entry.target.classList.remove('opacity1');
+        });
+    });
+
+    const images = document.querySelectorAll('img');
+    images.forEach(image => observer.observe(image));
 }
 
 function openmodal()
