@@ -26,8 +26,8 @@ function makegrid(src)
         iimg.style.height = 'auto';
         iimg.style.aspectRatio = '4/3';
         iimg.style.transitionProperty = 'opacity, filter';
-        iimg.style.transitionDelay = Math.random()*1.2+"s, 0s";
-        iimg.style.transitionDuration = '0.4s, 0.2s';
+        iimg.style.transitionDelay = Math.random()*0.5+"s, 0s";
+        iimg.style.transitionDuration = '0.35s, 0.2s';
         idiv.appendChild(iimg);
 
         // txt
@@ -48,7 +48,7 @@ function figfadein()
                 entry.target.classList.add('opacity1');
 	        return; 
             }
-            // entry.target.classList.remove('opacity1');
+            entry.target.classList.remove('opacity1');
         });
     });
 
