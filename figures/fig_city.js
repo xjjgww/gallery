@@ -360,3 +360,45 @@ figures["city"]["Ci-2023-01-04"] = {
     caption : "Bern",
 };
 
+figures["city"]["Ci-2023-02-12"] = {
+    imglink : "figures/city/Ci-2023-02-12.jpg",
+    thumbnail : "figures/city/Ci-2023-02-12-thumb.jpg",
+    caption : "La Folperia",
+};
+
+figures["city"]["Ci-2023-02-14"] = {
+    imglink : "figures/city/Ci-2023-02-14.jpg",
+    thumbnail : "figures/city/Ci-2023-02-14-thumb.jpg",
+    caption : "Pretty street outside the workshop venue",
+};
+
+figures["city"]["Ci-2023-02-15"] = {
+    imglink : "figures/city/Ci-2023-02-15.jpg",
+    thumbnail : "figures/city/Ci-2023-02-15-thumb.jpg",
+    caption : "Torre dell'Orologio",
+};
+
+figures["city"]["Ci-2023-02-17"] = {
+    imglink : "figures/city/Ci-2023-02-17.jpg",
+    thumbnail : "figures/city/Ci-2023-02-17-thumb.jpg",
+    caption : "Basilica di Sant'Antonio di Padova",
+};
+
+figures["city"]["Ci-2023-02-17_a"] = {
+    imglink : "figures/city/Ci-2023-02-17_a.jpg",
+    thumbnail : "figures/city/Ci-2023-02-17_a-thumb.jpg",
+    caption : "Prato della Valle",
+};
+
+figures["city"]["Ci-2023-02-18"] = {
+    imglink : "figures/city/Ci-2023-02-18.jpg",
+    thumbnail : "figures/city/Ci-2023-02-18-thumb.jpg",
+    caption : "Galleria Vittorio Emanuele II",
+};
+
+figures["city"]["Ci-2023-03-01"] = {
+    imglink : "figures/city/Ci-2023-03-01.jpg",
+    thumbnail : "figures/city/Ci-2023-03-01-thumb.jpg",
+    caption : "Charles river",
+};
+
