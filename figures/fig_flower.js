@@ -1137,7 +1137,7 @@ figures["flower"]["Fl-2023-04-26_c"] = {
 figures["flower"]["Fl-2023-05-01_a"] = {
     imglink : "figures/flower/Fl-2023-05-01_a.jpg",
     thumbnail : "figures/flower/Fl-2023-05-01_a-thumb.jpg",
-    caption : "Ribes sanguineum | 绯红茶藨子 | Ribes",
+    caption : "Cercis chinensis | 紫荆 | Chinese redbud",
 };
 
 figures["flower"]["Fl-2023-05-01_b"] = {
