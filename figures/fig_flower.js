@@ -1128,3 +1128,81 @@ figures["flower"]["Fl-2022-11-20_b"] = {
     caption : "Hylotelephium spectabile | 长药八宝 | Showy stonecrop",
 };
 
+figures["flower"]["Fl-2023-04-26_c"] = {
+    imglink : "figures/flower/Fl-2023-04-26_c.jpg",
+    thumbnail : "figures/flower/Fl-2023-04-26_c-thumb.jpg",
+    caption : "Ribes sanguineum | 绯红茶藨子 | Ribes",
+};
+
+figures["flower"]["Fl-2023-05-01_a"] = {
+    imglink : "figures/flower/Fl-2023-05-01_a.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_a-thumb.jpg",
+    caption : "Ribes sanguineum | 绯红茶藨子 | Ribes",
+};
+
+figures["flower"]["Fl-2023-05-01_b"] = {
+    imglink : "figures/flower/Fl-2023-05-01_b.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_b-thumb.jpg",
+    caption : "Primula acaulis | 欧报春 | Primrose",
+};
+
+figures["flower"]["Fl-2023-05-01_c"] = {
+    imglink : "figures/flower/Fl-2023-05-01_c.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_c-thumb.jpg",
+    caption : "Prunus laurocerasus | 桂樱 | Cherry laurel",
+};
+
+figures["flower"]["Fl-2023-05-01_d"] = {
+    imglink : "figures/flower/Fl-2023-05-01_d.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_d-thumb.jpg",
+    caption : "Viburnum lantana | 绵毛荚蒾 | Wayfaring tree",
+};
+
+figures["flower"]["Fl-2023-05-01_f"] = {
+    imglink : "figures/flower/Fl-2023-05-01_f.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_f-thumb.jpg",
+    caption : "Ranunculus asiaticus | 花毛茛 | Persian buttercup",
+};
+
+figures["flower"]["Fl-2023-05-01_g"] = {
+    imglink : "figures/flower/Fl-2023-05-01_g.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_g-thumb.jpg",
+    caption : "Iris germanica | 德国鸢尾 | Iris",
+};
+
+figures["flower"]["Fl-2023-05-01_h"] = {
+    imglink : "figures/flower/Fl-2023-05-01_h.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_h-thumb.jpg",
+    caption : "Freesia refracta | 香雪兰 | Common freesia",
+};
+
+figures["flower"]["Fl-2023-05-01_i"] = {
+    imglink : "figures/flower/Fl-2023-05-01_i.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_i-thumb.jpg",
+    caption : "Cymbalaria muralis | 蔓柳穿鱼 | Kenilworth Ivy",
+};
+
+figures["flower"]["Fl-2023-05-01_j"] = {
+    imglink : "figures/flower/Fl-2023-05-01_j.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_j-thumb.jpg",
+    caption : "Campanula poscharskyana | 垂吊风铃草 | Serbian bellflower",
+};
+
+figures["flower"]["Fl-2023-05-01_k"] = {
+    imglink : "figures/flower/Fl-2023-05-01_k.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_k-thumb.jpg",
+    caption : "Aubrieta deltoidea | 匙叶南庭荠 | Purple rock cress",
+};
+
+figures["flower"]["Fl-2023-05-01_m"] = {
+    imglink : "figures/flower/Fl-2023-05-01_m.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_m-thumb.jpg",
+    caption : "Bergenia purpurascens | 岩白菜 | Purple bergenia",
+};
+
+figures["flower"]["Fl-2023-05-01_n"] = {
+    imglink : "figures/flower/Fl-2023-05-01_n.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-01_n-thumb.jpg",
+    caption : "Knautia arvensis | 田野孀草 | Field scabious",
+};
+
