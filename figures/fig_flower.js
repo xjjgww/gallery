@@ -1122,12 +1122,6 @@ figures["flower"]["Fl-2022-11-20_a"] = {
     caption : "Calendula officinalis | 金盏花 | Pot marigold",
 };
 
-figures["flower"]["Fl-2022-11-20_b"] = {
-    imglink : "figures/flower/Fl-2022-11-20_b.jpg",
-    thumbnail : "figures/flower/Fl-2022-11-20_b-thumb.jpg",
-    caption : "Hylotelephium spectabile | 长药八宝 | Showy stonecrop",
-};
-
 figures["flower"]["Fl-2023-04-26_c"] = {
     imglink : "figures/flower/Fl-2023-04-26_c.jpg",
     thumbnail : "figures/flower/Fl-2023-04-26_c-thumb.jpg",
@@ -1204,5 +1198,11 @@ figures["flower"]["Fl-2023-05-01_n"] = {
     imglink : "figures/flower/Fl-2023-05-01_n.jpg",
     thumbnail : "figures/flower/Fl-2023-05-01_n-thumb.jpg",
     caption : "Knautia arvensis | 田野孀草 | Field scabious",
+};
+
+figures["flower"]["Fl-2023-05-03"] = {
+    imglink : "figures/flower/Fl-2023-05-03.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-03-thumb.jpg",
+    caption : "Kerria japonica | 棣棠花 | Pleniflora",
 };
 
