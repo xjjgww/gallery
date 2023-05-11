@@ -1206,3 +1206,15 @@ figures["flower"]["Fl-2023-05-03"] = {
     caption : "Kerria japonica | 棣棠花 | Pleniflora",
 };
 
+figures["flower"]["Fl-2023-05-10"] = {
+    imglink : "figures/flower/Fl-2023-05-10.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-10-thumb.jpg",
+    caption : "Weigela florida | 锦带花 | Weigela",
+};
+
+figures["flower"]["Fl-2023-05-10_a"] = {
+    imglink : "figures/flower/Fl-2023-05-10_a.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-10_a-thumb.jpg",
+    caption : "Orchis italica | 意大利红门兰 | Naked-man orchid",
+};
+
