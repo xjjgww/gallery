@@ -1044,12 +1044,6 @@ figures["flower"]["Fl-2022-10-23_e"] = {
     caption : "Senecio vulgaris | 欧洲千里光 | Common groundsel",
 };
 
-figures["flower"]["Fl-2022-10-23_f"] = {
-    imglink : "figures/flower/Fl-2022-10-23_f.jpg",
-    thumbnail : "figures/flower/Fl-2022-10-23_f-thumb.jpg",
-    caption : "Weigela florida | 锦带花",
-};
-
 figures["flower"]["Fl-2022-10-23_h"] = {
     imglink : "figures/flower/Fl-2022-10-23_h.jpg",
     thumbnail : "figures/flower/Fl-2022-10-23_h-thumb.jpg",
@@ -1158,12 +1152,6 @@ figures["flower"]["Fl-2023-05-01_f"] = {
     caption : "Ranunculus asiaticus | 花毛茛 | Persian buttercup",
 };
 
-figures["flower"]["Fl-2023-05-01_g"] = {
-    imglink : "figures/flower/Fl-2023-05-01_g.jpg",
-    thumbnail : "figures/flower/Fl-2023-05-01_g-thumb.jpg",
-    caption : "Iris germanica | 德国鸢尾 | Iris",
-};
-
 figures["flower"]["Fl-2023-05-01_h"] = {
     imglink : "figures/flower/Fl-2023-05-01_h.jpg",
     thumbnail : "figures/flower/Fl-2023-05-01_h-thumb.jpg",
@@ -1216,5 +1204,143 @@ figures["flower"]["Fl-2023-05-10_a"] = {
     imglink : "figures/flower/Fl-2023-05-10_a.jpg",
     thumbnail : "figures/flower/Fl-2023-05-10_a-thumb.jpg",
     caption : "Orchis italica | 意大利红门兰 | Naked-man orchid",
+};
+
+figures["flower"]["Fl-2023-05-14_a"] = {
+    imglink : "figures/flower/Fl-2023-05-14_a.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_a-thumb.jpg",
+    caption : "Erysimum capitatum | 沙丘壁花 | Western wallflower",
+};
+
+figures["flower"]["Fl-2023-05-14_c"] = {
+    imglink : "figures/flower/Fl-2023-05-14_c.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_c-thumb.jpg",
+    caption : "Wisteria floribunda | 多花紫藤 | Japanese wisteria",
+};
+
+figures["flower"]["Fl-2023-05-14_d"] = {
+    imglink : "figures/flower/Fl-2023-05-14_d.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_d-thumb.jpg",
+    caption : "Enkianthus campanulatus | 布纹吊钟花 | Redvein enkianthus",
+};
+
+figures["flower"]["Fl-2023-05-14_e"] = {
+    imglink : "figures/flower/Fl-2023-05-14_e.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_e-thumb.jpg",
+    caption : "Pieris japonica | 马醉木 | Japanese andromeda",
+};
+
+figures["flower"]["Fl-2023-05-14_f"] = {
+    imglink : "figures/flower/Fl-2023-05-14_f.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_f-thumb.jpg",
+    caption : "Pleione bulbocodioides | 独蒜兰 | Peacock orchid",
+};
+
+figures["flower"]["Fl-2023-05-14_g"] = {
+    imglink : "figures/flower/Fl-2023-05-14_g.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_g-thumb.jpg",
+    caption : "Agapanthus praecox | 早花百子莲 | Blue lily",
+};
+
+figures["flower"]["Fl-2023-05-14_i"] = {
+    imglink : "figures/flower/Fl-2023-05-14_i.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_i-thumb.jpg",
+    caption : "Aesculus hippocastanum | 欧洲七叶树 | Horse chestnut",
+};
+
+figures["flower"]["Fl-2023-05-14_k"] = {
+    imglink : "figures/flower/Fl-2023-05-14_k.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_k-thumb.jpg",
+    caption : "Thalictrum aquilegifolium | 欧洲唐松草 | Greater meadow-rue",
+};
+
+figures["flower"]["Fl-2023-05-14_l"] = {
+    imglink : "figures/flower/Fl-2023-05-14_l.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_l-thumb.jpg",
+    caption : "Achillea ptarmica | 珍珠蓍 | Sneezewort",
+};
+
+figures["flower"]["Fl-2023-05-14_m"] = {
+    imglink : "figures/flower/Fl-2023-05-14_m.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_m-thumb.jpg",
+    caption : "Caltha palustris | 驴蹄草 | Marsh Marigold",
+};
+
+figures["flower"]["Fl-2023-05-14_o"] = {
+    imglink : "figures/flower/Fl-2023-05-14_o.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_o-thumb.jpg",
+    caption : "Asphodelus fistulosus | 葱叶阿福花 | Onionweed",
+};
+
+figures["flower"]["Fl-2023-05-14_p"] = {
+    imglink : "figures/flower/Fl-2023-05-14_p.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_p-thumb.jpg",
+    caption : "Euphorbia esula | 乳浆大戟 | Leafy spurge",
+};
+
+figures["flower"]["Fl-2023-05-14_r"] = {
+    imglink : "figures/flower/Fl-2023-05-14_r.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_r-thumb.jpg",
+    caption : "Hippuris vulgaris | 杉叶藻 | Mare's-tail",
+};
+
+figures["flower"]["Fl-2023-05-14_s"] = {
+    imglink : "figures/flower/Fl-2023-05-14_s.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_s-thumb.jpg",
+    caption : "Pseudofumaria alba | 白花假烟堇 | White corydalis",
+};
+
+figures["flower"]["Fl-2023-05-14_t"] = {
+    imglink : "figures/flower/Fl-2023-05-14_t.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_t-thumb.jpg",
+    caption : "Bletilla striata | 白芨 | Chinese ground orchid",
+};
+
+figures["flower"]["Fl-2023-05-14_u"] = {
+    imglink : "figures/flower/Fl-2023-05-14_u.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_u-thumb.jpg",
+    caption : "Menyanthes trifoliata | 睡菜 | Bogbean",
+};
+
+figures["flower"]["Fl-2023-05-14_v"] = {
+    imglink : "figures/flower/Fl-2023-05-14_v.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_v-thumb.jpg",
+    caption : "Strelitzia reginae | 鹤望兰 | Bird of paradise flower",
+};
+
+figures["flower"]["Fl-2023-05-14_w"] = {
+    imglink : "figures/flower/Fl-2023-05-14_w.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_w-thumb.jpg",
+    caption : "Clivia miniata | 君子兰 | Bush lily",
+};
+
+figures["flower"]["Fl-2023-05-14_x"] = {
+    imglink : "figures/flower/Fl-2023-05-14_x.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_x-thumb.jpg",
+    caption : "Buddleja globosa | 球花醉鱼草 | Orange-ball-tree",
+};
+
+figures["flower"]["Fl-2023-05-14_y"] = {
+    imglink : "figures/flower/Fl-2023-05-14_y.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_y-thumb.jpg",
+    caption : "Eschscholzia californica | 花菱草 | California poppy",
+};
+
+figures["flower"]["Fl-2023-05-14_z"] = {
+    imglink : "figures/flower/Fl-2023-05-14_z.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_z-thumb.jpg",
+    caption : "Borago officinalis | 琉璃苣 | Starflower",
+};
+
+figures["flower"]["Fl-2023-05-14_za"] = {
+    imglink : "figures/flower/Fl-2023-05-14_za.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_za-thumb.jpg",
+    caption : "Leopoldia comosa | 恋壶花 | Tassel hyacinth",
+};
+
+figures["flower"]["Fl-2023-05-14_zb"] = {
+    imglink : "figures/flower/Fl-2023-05-14_zb.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-14_zb-thumb.jpg",
+    caption : "Loropetalum chinense | 红花檵木 | Chinese fringe flower",
 };
 

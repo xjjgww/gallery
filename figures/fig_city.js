@@ -402,3 +402,9 @@ figures["city"]["Ci-2023-03-01"] = {
     caption : "Charles river",
 };
 
+figures["city"]["Ci-2023-05-14"] = {
+    imglink : "figures/city/Ci-2023-05-14.jpg",
+    thumbnail : "figures/city/Ci-2023-05-14-thumb.jpg",
+    caption : "Geneva",
+};
+

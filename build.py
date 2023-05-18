@@ -2,6 +2,7 @@ import sys
 from datetime import date
 
 version='?v='+date.today().strftime("%y%m%d")
+print(version)
 pages = ['city', 'cook', 'flower', 'outdoor']
 
 class subpage:
