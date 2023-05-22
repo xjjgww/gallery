@@ -942,12 +942,6 @@ figures["flower"]["Fl-2022-06-14_c"] = {
     caption : "Petunia atkinsiana | 矮牵牛 | Garden petunia",
 };
 
-figures["flower"]["Fl-2022-06-14_d"] = {
-    imglink : "figures/flower/Fl-2022-06-14_d.jpg",
-    thumbnail : "figures/flower/Fl-2022-06-14_d-thumb.jpg",
-    caption : "Deutzia scabra | 溲疏 | Fuzzy deutzia",
-};
-
 figures["flower"]["Fl-2022-06-14_e"] = {
     imglink : "figures/flower/Fl-2022-06-14_e.jpg",
     thumbnail : "figures/flower/Fl-2022-06-14_e-thumb.jpg",
@@ -1342,5 +1336,23 @@ figures["flower"]["Fl-2023-05-14_zb"] = {
     imglink : "figures/flower/Fl-2023-05-14_zb.jpg",
     thumbnail : "figures/flower/Fl-2023-05-14_zb-thumb.jpg",
     caption : "Loropetalum chinense | 红花檵木 | Chinese fringe flower",
+};
+
+figures["flower"]["Fl-2023-05-21"] = {
+    imglink : "figures/flower/Fl-2023-05-21.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-21-thumb.jpg",
+    caption : "Lotus corniculatus | 百脉根 | Bird's-foot trefoil",
+};
+
+figures["flower"]["Fl-2023-05-21_a"] = {
+    imglink : "figures/flower/Fl-2023-05-21_a.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-21_a-thumb.jpg",
+    caption : "Deutzia scabra | 溲疏 | Fuzzy deutzia",
+};
+
+figures["flower"]["Fl-2023-05-21_b"] = {
+    imglink : "figures/flower/Fl-2023-05-21_b.jpg",
+    thumbnail : "figures/flower/Fl-2023-05-21_b-thumb.jpg",
+    caption : "Sonchus oleraceus | 苦苣菜 | Sowthistle",
 };
 
