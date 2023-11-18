@@ -55,7 +55,7 @@ for page in pages:
 outputfiles = {
     "template/cover.html" : "index.html",
     "template/about.html" : "index_about.html",
-    }
+}
 
 for inputfile in outputfiles:
     print(inputfile + ' => ' + outputfiles[inputfile])

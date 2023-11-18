@@ -120,3 +120,9 @@ figures["outdoor"]["Ou-2023-01-22"] = {
     caption : "Crow",
 };
 
+figures["outdoor"]["Ou-2023-11-12"] = {
+    imglink : "figures/outdoor/Ou-2023-11-12.jpg",
+    thumbnail : "figures/outdoor/Ou-2023-11-12-thumb.jpg",
+    caption : "De Kat, Zaanse Schans",
+};
+

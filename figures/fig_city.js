@@ -408,3 +408,51 @@ figures["city"]["Ci-2023-05-14"] = {
     caption : "Geneva",
 };
 
+figures["city"]["Ci-2023-06-07"] = {
+    imglink : "figures/city/Ci-2023-06-07.jpg",
+    thumbnail : "figures/city/Ci-2023-06-07-thumb.jpg",
+    caption : "People, Genoa",
+};
+
+figures["city"]["Ci-2023-06-08"] = {
+    imglink : "figures/city/Ci-2023-06-08.jpg",
+    thumbnail : "figures/city/Ci-2023-06-08-thumb.jpg",
+    caption : "Spianata Castelletto, Genoa",
+};
+
+figures["city"]["Ci-2023-11-12"] = {
+    imglink : "figures/city/Ci-2023-11-12.jpg",
+    thumbnail : "figures/city/Ci-2023-11-12-thumb.jpg",
+    caption : "Amsterdam",
+};
+
+figures["city"]["Ci-2023-11-12_a"] = {
+    imglink : "figures/city/Ci-2023-11-12_a.jpg",
+    thumbnail : "figures/city/Ci-2023-11-12_a-thumb.jpg",
+    caption : "Small Chinese store in Amsterdam",
+};
+
+figures["city"]["Ci-2023-11-12_b"] = {
+    imglink : "figures/city/Ci-2023-11-12_b.jpg",
+    thumbnail : "figures/city/Ci-2023-11-12_b-thumb.jpg",
+    caption : "Central Station, Amsterdam",
+};
+
+figures["city"]["Ci-2023-11-12_c"] = {
+    imglink : "figures/city/Ci-2023-11-12_c.jpg",
+    thumbnail : "figures/city/Ci-2023-11-12_c-thumb.jpg",
+    caption : "Central metro station, Amsterdam",
+};
+
+figures["city"]["Ci-2023-11-14"] = {
+    imglink : "figures/city/Ci-2023-11-14.jpg",
+    thumbnail : "figures/city/Ci-2023-11-14-thumb.jpg",
+    caption : "Brasserie Londen, Amsterdam",
+};
+
+figures["city"]["Ci-2023-11-14_a"] = {
+    imglink : "figures/city/Ci-2023-11-14_a.jpg",
+    thumbnail : "figures/city/Ci-2023-11-14_a-thumb.jpg",
+    caption : "Canal, Amsterdam",
+};
+
