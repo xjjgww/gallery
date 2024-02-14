@@ -456,3 +456,27 @@ figures["city"]["Ci-2023-11-14_a"] = {
     caption : "Canal, Amsterdam",
 };
 
+figures["city"]["Ci-2023-12-27"] = {
+    imglink : "figures/city/Ci-2023-12-27.jpg",
+    thumbnail : "figures/city/Ci-2023-12-27-thumb.jpg",
+    caption : "Ankeruhr, Vienna",
+};
+
+figures["city"]["Ci-2023-12-27_a"] = {
+    imglink : "figures/city/Ci-2023-12-27_a.jpg",
+    thumbnail : "figures/city/Ci-2023-12-27_a-thumb.jpg",
+    caption : "Vienna",
+};
+
+figures["city"]["Ci-2023-12-28"] = {
+    imglink : "figures/city/Ci-2023-12-28.jpg",
+    thumbnail : "figures/city/Ci-2023-12-28-thumb.jpg",
+    caption : "Salzburg",
+};
+
+figures["city"]["Ci-2024-01-20"] = {
+    imglink : "figures/city/Ci-2024-01-20.jpg",
+    thumbnail : "figures/city/Ci-2024-01-20-thumb.jpg",
+    caption : "Paris",
+};
+
