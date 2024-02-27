@@ -1,3 +1,9 @@
+:root {
+    --color-f: #88898C;
+    --color-b: #222326;
+    --color-t: #D7D7D9;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -6,7 +12,8 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     overflow-y: scroll; /* Show vertical scrollbar */
-    color: #2a2a2a;
+    color: var(--color-f);
+    background-color: var(--color-b);
 }
 
 a, p, button {
@@ -35,7 +42,7 @@ a, p, button {
 
 .footer {
     margin-top: 40px;
-    color: #ddd;
+    color: var(--color-f);
     font-size: 0.9rem;
 }
 

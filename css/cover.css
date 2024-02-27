@@ -1,7 +1,7 @@
 .cover {
     width: 60%;
     position: relative;
-    background-color: white;
+    background-color: var(--color-b);
     text-align: center;
     margin: auto;
     padding: 0;
